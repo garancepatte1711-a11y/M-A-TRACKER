@@ -1,16 +1,74 @@
 {
- "generated_at": "2026-07-07T21:15:45.287312+00:00",
- "count": 35,
+ "generated_at": "2026-07-07T21:33:45.929939+00:00",
+ "count": 40,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
-  "Qonto (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/qonto/jobs",
+  "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
+  "Evercore Campus (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/evercore/jobs",
   "Sia Partners (lever): 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/sia-partners?mode=json",
-  "Lazard (workday): 422 Client Error: Unprocessable Entity for url: https://lazard.wd1.myworkdayjobs.com/wday/cxs/lazard/LazardCareers/jobs",
   "Rothschild & Co (workday): 404 Client Error: Not Found for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Careers/jobs",
-  "Moelis (workday): 404 Client Error: Not Found for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
-  "Exemple Boutique M&A (recruitee): 404 Client Error: Not Found for url: https://exemple.recruitee.com/api/offers/"
+  "Moelis & Company (workday): 404 Client Error: Not Found for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
+  "Schroders (workday): 422 Client Error: Unprocessable Entity for url: https://schroders.wd3.myworkdayjobs.com/wday/cxs/schroders/schroderscareers/jobs",
+  "PIMCO (workday): 404 Client Error: Not Found for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/PIMCO/jobs",
+  "Jefferies (workday): 422 Client Error: Unprocessable Entity for url: https://jefferies.wd5.myworkdayjobs.com/wday/cxs/jefferies/jefferiescareers/jobs",
+  "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "a78ef4be7d5b",
+   "company": "Santander",
+   "title": "Corporate & Investment Banking - Debt Capital Markets - Director - New York",
+   "location": "Madison Ave Corp",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking---Debt-Capital-Markets---Director---New-York_Req1592817-1",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-07T21:32:39.607994+00:00"
+  },
+  {
+   "id": "d9499506765d",
+   "company": "IMC Trading",
+   "title": "Corporate Development Manager",
+   "location": "Mumbai, India",
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
+   "contract": "Autre",
+   "posted_at": "2026-06-26T00:08:31-04:00",
+   "source": "ats",
+   "detected_at": "2026-07-07T21:31:42.159048+00:00"
+  },
+  {
+   "id": "e3a4c5879426",
+   "company": "Point72",
+   "title": "Mortgage Valuation Specialist",
+   "location": "New York",
+   "url": "https://boards.greenhouse.io/point72/jobs/8468870002?gh_jid=8468870002",
+   "contract": "Autre",
+   "posted_at": "2026-06-25T22:13:45-04:00",
+   "source": "ats",
+   "detected_at": "2026-07-07T21:31:41.578692+00:00"
+  },
+  {
+   "id": "7f88f1b9bf6e",
+   "company": "Point72",
+   "title": "Macro Valuation & Intraday Pricing Specialist, Hong Kong",
+   "location": "Hong Kong",
+   "url": "https://boards.greenhouse.io/point72/jobs/8485894002?gh_jid=8485894002",
+   "contract": "Autre",
+   "posted_at": "2026-06-25T22:13:45-04:00",
+   "source": "ats",
+   "detected_at": "2026-07-07T21:31:41.578594+00:00"
+  },
+  {
+   "id": "4c0194cc68c3",
+   "company": "Point72",
+   "title": "Associate, Macro Valuation",
+   "location": "New York, NY",
+   "url": "https://boards.greenhouse.io/point72/jobs/8367891002?gh_jid=8367891002",
+   "contract": "CDI",
+   "posted_at": "2026-06-25T22:13:45-04:00",
+   "source": "ats",
+   "detected_at": "2026-07-07T21:31:41.577637+00:00"
+  },
   {
    "id": "ec31244ab6d8",
    "company": "ING",
