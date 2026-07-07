@@ -1,53 +1,59 @@
 # ── Sociétés suivies et leur ATS ──────────────────────────────────
-# Chaque connecteur interroge l'API publique de l'ATS correspondant.
-# Pour ajouter une société : trouvez l'URL de sa page carrières,
-# identifiez l'ATS (visible dans l'URL), et ajoutez une entrée ici.
+# Version élargie à partir de votre fichier "where to apply".
 #
-# Comment identifier l'ATS depuis l'URL de la page carrières :
-#   *.greenhouse.io           -> greenhouse  (token = ce qui suit /boards/ ou job-boards.greenhouse.io/)
-#   jobs.lever.co/<slug>      -> lever
-#   *.smartrecruiters.com     -> smartrecruiters (slug = nom dans l'URL)
-#   *.wd1/wd3/wd5.myworkdayjobs.com/<site> -> workday (tenant, wd, site)
-#   *.recruitee.com           -> recruitee
-#   jobs.ca-cib.com etc. (ATS propriétaires) -> pas d'API publique, voir README
+# IMPORTANT : les entrées marquées "à vérifier" sont mon meilleur
+# pronostic sur l'ATS utilisé. Si une entrée est fausse, elle apparaît
+# simplement avec "!!" dans le log du workflow (onglet Actions) sans
+# rien casser : on la corrige ou on la supprime ensuite.
 
 greenhouse:
-  # token du board Greenhouse
   - { company: "PJT Partners",        token: "pjtpartnerscampus" }
-  - { company: "Qonto",               token: "qonto" }
+  - { company: "Point72",             token: "point72" }            # à vérifier
+  - { company: "IMC Trading",         token: "imc" }                # à vérifier
+  - { company: "DRW",                 token: "drw" }                # à vérifier
+  - { company: "Optiver",             token: "optiver" }            # à vérifier (lien gh_jid dans votre fichier)
+  - { company: "Evercore Campus",     token: "evercore" }           # à vérifier
 
 lever:
-  # slug jobs.lever.co/<slug>
   - { company: "Sia Partners",        slug: "sia-partners" }
 
 smartrecruiters:
-  # slug api.smartrecruiters.com/v1/companies/<slug>/postings
   - { company: "Société Générale",    slug: "SocieteGenerale" }
   - { company: "BNP Paribas",         slug: "BNPParibas" }
-  - { company: "Natixis",             slug: "BPCE" }
+  - { company: "Natixis (BPCE)",      slug: "BPCE" }
+  - { company: "Alantra",             slug: "Alantra" }             # à vérifier
+  - { company: "Houlihan Lokey",      slug: "HoulihanLokey" }       # à vérifier
 
 workday:
-  # tenant + numéro wd + site (visible dans l'URL myworkdayjobs.com)
-  - { company: "Lazard",       tenant: "lazard",     wd: "wd1", site: "LazardCareers" }
-  - { company: "Rothschild & Co", tenant: "rothschildandco", wd: "wd3", site: "Careers" }
-  - { company: "Blackstone",   tenant: "blackstone", wd: "wd1", site: "Blackstone_Campus_Careers" }
-  - { company: "ING",          tenant: "ing",        wd: "wd3", site: "ICSGBLCOR" }
-  - { company: "Moelis",       tenant: "moelis",     wd: "wd1", site: "Moelis" }
+  # Confirmé par le lien Blackstone de votre fichier
+  - { company: "Blackstone",       tenant: "blackstone",     wd: "wd1", site: "Blackstone_Campus_Careers" }
+  - { company: "Rothschild & Co",  tenant: "rothschildandco", wd: "wd3", site: "Careers" }
+  - { company: "Moelis & Company", tenant: "moelis",         wd: "wd1", site: "Moelis" }
+  - { company: "ING",              tenant: "ing",            wd: "wd3", site: "ICSGBLCOR" }
+  - { company: "Santander",        tenant: "santander",      wd: "wd3", site: "SantanderCareers" }   # à vérifier
+  - { company: "Schroders",        tenant: "schroders",      wd: "wd3", site: "schroderscareers" }   # à vérifier
+  - { company: "PIMCO",            tenant: "pimco",          wd: "wd1", site: "PIMCO" }              # à vérifier
+  - { company: "Jefferies",        tenant: "jefferies",      wd: "wd5", site: "jefferiescareers" }   # à vérifier
+  - { company: "Fidelity Intl",    tenant: "fil",            wd: "wd3", site: "FILCareers" }         # à vérifier
 
-recruitee:
-  # sous-domaine <slug>.recruitee.com
-  - { company: "Exemple Boutique M&A", slug: "exemple" }
+recruitee: []
 
-# API officielles agrégées (clés gratuites, voir README)
+oraclecloud:
+  # Confirmé par le lien J.P. Morgan de votre fichier (jpmc.fa.oraclecloud.com / CX_1001)
+  - { company: "J.P. Morgan",  host: "jpmc.fa.oraclecloud.com", site: "CX_1001" }
+
+# API officielles agrégées — RECOMMANDÉ pour couvrir les boutiques
+# françaises (Exelmans, Oderis, Cambon, Capitalmind, Messier, etc.)
+# qui n'ont pas d'ATS à API publique. Clés gratuites, voir README.
 adzuna:
-  enabled: false          # mettre true après avoir créé app_id/app_key sur developer.adzuna.com
+  enabled: false
   app_id: ""
   app_key: ""
   countries: ["fr", "gb"]
   what: "M&A stage"
 
 france_travail:
-  enabled: false          # créer une app sur francetravail.io (API "Offres d'emploi v2")
+  enabled: false
   client_id: ""
   client_secret: ""
   keywords: "fusions acquisitions"
