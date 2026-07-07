@@ -1,0 +1,23 @@
+name: Scrape M&A offers
+on:
+  schedule:
+    - cron: "0 6,12,18 * * *"   # 3 fois par jour (UTC)
+  workflow_dispatch:              # bouton "Run workflow" manuel
+permissions:
+  contents: write
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r scraper/requirements.txt
+      - run: python scraper/scrape.py
+      - name: Commit results
+        run: |
+          git config user.name "ma-tracker-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/jobs.json
+          git diff --cached --quiet || git commit -m "chore: update offers $(date -u +%F_%H:%M)"
+          git push

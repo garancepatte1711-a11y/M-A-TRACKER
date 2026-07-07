@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar M&A — stages et offres Corporate Finance détectés à la source</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#EFF2F4; --surface:#FFFFFF; --ink:#10202E; --steel:#5A6C7D;
+    --line:#DBE1E7; --signal:#0E7C5B; --signal-bg:#E4F2EC;
+    --mono:'IBM Plex Mono',monospace; --body:'Inter',sans-serif; --display:'Archivo',sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:14px;line-height:1.5}
+  a{color:inherit}
+
+  /* ── En-tête : journal de collecte ── */
+  header{background:var(--ink);color:#E8EDF1;padding:26px 28px 22px}
+  .wordmark{font-family:var(--display);font-weight:800;font-size:26px;letter-spacing:-.02em}
+  .wordmark em{font-style:normal;color:#7FC8AB}
+  .logline{font-family:var(--mono);font-size:12px;color:#93A6B5;margin-top:8px;display:flex;gap:18px;flex-wrap:wrap}
+  .logline b{color:#E8EDF1;font-weight:500}
+  .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--signal);margin-right:6px;animation:pulse 2.2s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  @media (prefers-reduced-motion:reduce){.dot{animation:none}}
+
+  /* ── Filtres ── */
+  .filters{background:var(--surface);border-bottom:1px solid var(--line);padding:14px 28px;
+    display:flex;gap:10px;flex-wrap:wrap;align-items:center;position:sticky;top:0;z-index:5}
+  .filters input,.filters select{font-family:var(--body);font-size:13px;padding:8px 12px;
+    border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink)}
+  .filters input{flex:1;min-width:200px}
+  .filters input:focus,.filters select:focus{outline:2px solid var(--signal);outline-offset:1px;border-color:transparent}
+  #count{font-family:var(--mono);font-size:12px;color:var(--steel);margin-left:auto}
+
+  /* ── Tableau ── */
+  main{padding:20px 28px 60px;max-width:1280px;margin:0 auto}
+  table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  thead th{font-family:var(--display);font-weight:700;font-size:11px;text-transform:uppercase;
+    letter-spacing:.08em;color:var(--steel);text-align:left;padding:12px 14px;border-bottom:1px solid var(--line);background:#F7F9FA}
+  tbody td{padding:13px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+  tbody tr:last-child td{border-bottom:none}
+  tbody tr:hover{background:#F4FAF7}
+  .when{font-family:var(--mono);font-size:12px;color:var(--steel);white-space:nowrap}
+  .fresh .when{color:var(--signal);font-weight:500}
+  .fresh .when::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--signal);margin-right:7px;vertical-align:1px}
+  .role a{font-weight:600;text-decoration:none;border-bottom:1px solid transparent}
+  .role a:hover{border-bottom-color:var(--ink)}
+  .company{font-weight:500}
+  .loc{color:var(--steel)}
+  .tag{display:inline-block;font-family:var(--mono);font-size:11px;padding:2px 8px;border-radius:4px;
+    background:var(--paper);color:var(--steel);border:1px solid var(--line)}
+  .tag.stage{background:var(--signal-bg);color:var(--signal);border-color:transparent}
+  .apply{font-family:var(--mono);font-size:12px;text-decoration:none;color:var(--signal);white-space:nowrap}
+  .apply:hover{text-decoration:underline}
+  .empty{padding:40px;text-align:center;color:var(--steel)}
+  footer{padding:18px 28px;font-size:12px;color:var(--steel);max-width:1280px;margin:0 auto}
+
+  /* ── Mobile : le tableau devient des cartes ── */
+  @media (max-width:760px){
+    header,main,.filters,footer{padding-left:16px;padding-right:16px}
+    thead{display:none}
+    table,tbody,tr,td{display:block;border:none}
+    table{background:none}
+    tbody tr{background:var(--surface);border:1px solid var(--line);border-radius:10px;margin-bottom:10px;padding:12px 14px}
+    tbody td{padding:2px 0;border:none}
+    .role{font-size:15px;order:-1}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wordmark">RADAR<em>·M&A</em></div>
+  <div class="logline">
+    <span><span class="dot"></span>suivi des sites carrières</span>
+    <span>dernière collecte <b id="generated">—</b></span>
+    <span><b id="total">—</b> offres actives</span>
+  </div>
+</header>
+
+<div class="filters">
+  <input id="q" type="search" placeholder="Rechercher un poste, une société, une ville…" aria-label="Recherche">
+  <select id="contract" aria-label="Type de contrat"><option value="">Tous contrats</option></select>
+  <select id="city" aria-label="Ville"><option value="">Toutes villes</option></select>
+  <span id="count"></span>
+</div>
+
+<main>
+  <table>
+    <thead><tr>
+      <th>Détectée</th><th>Société</th><th>Poste</th><th>Contrat</th><th>Lieu</th><th></th>
+    </tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <div class="empty" id="empty" hidden>Aucune offre ne correspond à ces filtres.</div>
+</main>
+
+<footer>
+  Les offres proviennent directement des API publiques des sites carrières (Workday, Greenhouse,
+  SmartRecruiters, Lever…). Chaque lien mène à l'offre d'origine.
+</footer>
+
+<script>
+let JOBS = [];
+
+const rel = iso => {
+  if(!iso) return "—";
+  const m = Math.max(1, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (m < 60)   return `il y a ${m} min`;
+  if (m < 1440) return `il y a ${Math.round(m/60)} h`;
+  return `il y a ${Math.round(m/1440)} j`;
+};
+const esc = s => s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function render(){
+  const q = document.getElementById('q').value.toLowerCase();
+  const c = document.getElementById('contract').value;
+  const v = document.getElementById('city').value;
+  const rows = JOBS.filter(j =>
+    (!q || `${j.title} ${j.company} ${j.location}`.toLowerCase().includes(q)) &&
+    (!c || j.contract === c) &&
+    (!v || j.location.startsWith(v))
+  );
+  document.getElementById('rows').innerHTML = rows.map(j => {
+    const fresh = (Date.now() - new Date(j.detected_at)) < 24*3600*1000;
+    return `<tr class="${fresh ? 'fresh':''}">
+      <td class="when">${rel(j.detected_at)}</td>
+      <td class="company">${esc(j.company)}</td>
+      <td class="role"><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></td>
+      <td><span class="tag ${j.contract==='Stage'?'stage':''}">${esc(j.contract)}</span></td>
+      <td class="loc">${esc(j.location)}</td>
+      <td><a class="apply" href="${esc(j.url)}" target="_blank" rel="noopener">Voir l'offre →</a></td>
+    </tr>`;
+  }).join('');
+  document.getElementById('empty').hidden = rows.length > 0;
+  document.getElementById('count').textContent = `${rows.length} / ${JOBS.length} offres`;
+}
+
+fetch('jobs.json').then(r => r.json()).then(data => {
+  JOBS = data.jobs;
+  document.getElementById('generated').textContent = rel(data.generated_at);
+  document.getElementById('total').textContent = data.count;
+  const fill = (id, values) => {
+    const sel = document.getElementById(id);
+    [...new Set(values)].sort().forEach(x => sel.add(new Option(x, x)));
+  };
+  fill('contract', JOBS.map(j => j.contract));
+  fill('city', JOBS.map(j => j.location.split(',')[0].trim()));
+  render();
+});
+['q','contract','city'].forEach(id =>
+  document.getElementById(id).addEventListener('input', render));
+</script>
+</body>
+</html>
