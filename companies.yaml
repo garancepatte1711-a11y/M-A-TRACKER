@@ -36,7 +36,8 @@ workday:
   - { company: "Jefferies",        tenant: "jefferies",      wd: "wd5", site: "jefferiescareers" }   # à vérifier
   - { company: "Fidelity Intl",    tenant: "fil",            wd: "wd3", site: "FILCareers" }         # à vérifier
 
-recruitee: []
+recruitee:
+  - { company: "Eight Advisory",      slug: "8advisory" }   # vérifié : 8advisory.recruitee.com
 
 oraclecloud:
   # Confirmé par le lien J.P. Morgan de votre fichier (jpmc.fa.oraclecloud.com / CX_1001)
@@ -57,3 +58,22 @@ france_travail:
   client_id: ""
   client_secret: ""
   keywords: "fusions acquisitions"
+
+# ── Pages carrières surveillées directement (boutiques sans ATS) ──
+# C'est comme ça qu'on couvre Financière de Courcelles & co :
+# donnez juste l'URL de la page carrières / offres de la boutique.
+# Le robot extrait tous les liens dont le titre matche les mots-clés.
+# Pour ajouter une boutique : googlez "<nom> carrières" ou "<nom> join us",
+# copiez l'URL de la page qui liste les offres, ajoutez une ligne ici.
+# Optionnel : "selector" (sélecteur CSS) si la page est très chargée.
+pages:
+  # URL vérifiées par recherche web (07/2026)
+  - { company: "Exelmans",                 url: "https://www.exelmans.com/nous-rejoindre" }
+  - { company: "Cambon Partners",          url: "https://www.cambonpartners.com/en/careers" }
+  - { company: "Oderis",                   url: "https://oderis.fr/offres-emploi/" }
+  - { company: "Financière de Courcelles", url: "https://financieredecourcelles.fr/contact/join-us/" }
+  # NB : les offres détaillées de Financière de Courcelles sont sur
+  # financiere-de-courcelles.sainoo.com (page JavaScript, non lisible par
+  # le robot) -> à surveiller manuellement ou via Adzuna.
+  # Pour ajouter une boutique : googlez "<nom> carrières", collez l'URL :
+  # - { company: "Nom",                    url: "COLLEZ_L_URL_ICI" }
