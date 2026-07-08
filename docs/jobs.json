@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-07T21:47:45.954027+00:00",
- "count": 82,
+ "generated_at": "2026-07-08T12:02:35.241786+00:00",
+ "count": 81,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -475,17 +475,6 @@
    "posted_at": "2026-03-19 15:03:32 UTC",
    "source": "ats",
    "detected_at": "2026-07-07T21:46:49.426710+00:00"
-  },
-  {
-   "id": "a78ef4be7d5b",
-   "company": "Santander",
-   "title": "Corporate & Investment Banking - Debt Capital Markets - Director - New York",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking---Debt-Capital-Markets---Director---New-York_Req1592817-1",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:32:39.607994+00:00"
   },
   {
    "id": "d9499506765d",
