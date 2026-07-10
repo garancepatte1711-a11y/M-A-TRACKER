@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-10T13:30:05.819161+00:00",
- "count": 85,
+ "generated_at": "2026-07-10T21:41:11.334874+00:00",
+ "count": 82,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -46,39 +46,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-09T22:52:04.641509+00:00"
-  },
-  {
-   "id": "69d18d3a31c1",
-   "company": "Santander",
-   "title": "ECM M&A Analyst",
-   "location": "Madrid",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/ECM-M-A-Analyst-_Req1591983",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-09T16:14:32.445460+00:00"
-  },
-  {
-   "id": "694153ef6e14",
-   "company": "Santander",
-   "title": "Investment Banking Analyst, Energy - Houston",
-   "location": "UCM - Houston",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/UCM---Houston/Analyst-Energy-Houston_Req1561378",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-09T16:14:32.445380+00:00"
-  },
-  {
-   "id": "5170eaddee3e",
-   "company": "Santander",
-   "title": "Investment Banking - Mergers & Acquisition - VP - New York",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking---Mergers---Acquisition---VP---New-York_Req1593256",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-09T16:14:32.445332+00:00"
   },
   {
    "id": "0775c2ebf77f",
