@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-09T22:54:02.179062+00:00",
- "count": 84,
+ "generated_at": "2026-07-10T13:30:05.819161+00:00",
+ "count": 85,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,28 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "2c918fa09c52",
+   "company": "ING",
+   "title": "Customer Acquisition Manager (Digital)",
+   "location": "Sydney",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Sydney/Customer-Acquisition-Manager--Digital-_REQ-10116085-1",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-10T13:28:22.080322+00:00"
+  },
+  {
+   "id": "d538a4670aec",
+   "company": "ING",
+   "title": "Vice President, Corporate Finance Advisory",
+   "location": "Singapore",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Vice-President--Corporate-Finance-Advisory_REQ-10116980-2",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-10T13:28:20.651332+00:00"
+  },
   {
    "id": "f8a76ee6921d",
    "company": "ING",
@@ -783,17 +805,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-07T21:15:14.558985+00:00"
-  },
-  {
-   "id": "933cf6ea8e6c",
-   "company": "ING",
-   "title": "Intern Corporate Finance / Mergers & Acquisitions (f/m/x)",
-   "location": "Frankfurt",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Frankfurt/Intern-Corporate-Finance---Mergers---Acquisitions--f-m-x-_REQ-10100639",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:13.569332+00:00"
   },
   {
    "id": "9889980e5192",
