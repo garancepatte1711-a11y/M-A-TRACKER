@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T21:32:32.136292+00:00",
+ "generated_at": "2026-07-14T11:15:17.050113+00:00",
  "count": 80,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -538,7 +538,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/8468870002?gh_jid=8468870002",
    "contract": "Autre",
-   "posted_at": "2026-06-25T22:13:45-04:00",
+   "posted_at": "2026-07-13T19:22:44-04:00",
    "source": "ats",
    "detected_at": "2026-07-07T21:31:41.578692+00:00"
   },
@@ -549,7 +549,7 @@
    "location": "Hong Kong",
    "url": "https://boards.greenhouse.io/point72/jobs/8485894002?gh_jid=8485894002",
    "contract": "Autre",
-   "posted_at": "2026-06-25T22:13:45-04:00",
+   "posted_at": "2026-07-13T19:22:44-04:00",
    "source": "ats",
    "detected_at": "2026-07-07T21:31:41.578594+00:00"
   },
@@ -560,7 +560,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8367891002?gh_jid=8367891002",
    "contract": "CDI",
-   "posted_at": "2026-06-25T22:13:45-04:00",
+   "posted_at": "2026-07-13T19:22:44-04:00",
    "source": "ats",
    "detected_at": "2026-07-07T21:31:41.577637+00:00"
   },
