@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-14T16:46:09.137824+00:00",
- "count": 80,
+ "generated_at": "2026-07-14T21:34:51.963880+00:00",
+ "count": 81,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "1ca3731e52b6",
+   "company": "Blackstone",
+   "title": "2027 Blackstone Private Equity Analyst",
+   "location": "New York",
+   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Private-Equity-Analyst_44030",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-14T21:32:55.291597+00:00"
+  },
   {
    "id": "dd201997a48b",
    "company": "ING",
