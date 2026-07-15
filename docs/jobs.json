@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-14T21:34:51.963880+00:00",
- "count": 81,
+ "generated_at": "2026-07-15T11:19:31.755586+00:00",
+ "count": 80,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "ededc57ebcfa",
+   "company": "ING",
+   "title": "Analyst/ Associate, Corporate Finance",
+   "location": "Hong Kong",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Hong-Kong/Associate--Corporate-Finance_REQ-10117272-1",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-15T11:17:33.845155+00:00"
+  },
   {
    "id": "1ca3731e52b6",
    "company": "Blackstone",
@@ -708,17 +719,6 @@
    "detected_at": "2026-07-07T21:15:19.660104+00:00"
   },
   {
-   "id": "00b8f8ecaaa1",
-   "company": "ING",
-   "title": "Analyst Capital Markets & Advisory – Early Career Group, Homebase Asset Securitisation (ASec) (w/m/d)",
-   "location": "Frankfurt",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Frankfurt/Analyst-Capital-Markets---Advisory---Early-Career-Group--Homebase-Asset-Securitisation--ASec---w-m-d-_REQ-10116929-1",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:18.632486+00:00"
-  },
-  {
    "id": "a88e9c188dcc",
    "company": "ING",
    "title": "Data Analyst | Investment Banking @ING Hubs Romania",
@@ -739,17 +739,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-07T21:15:17.665607+00:00"
-  },
-  {
-   "id": "a5bc35c184c2",
-   "company": "ING",
-   "title": "Associate, Corporate Finance",
-   "location": "Hong Kong",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Hong-Kong/Associate--Corporate-Finance_REQ-10117272-1",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:16.655631+00:00"
   },
   {
    "id": "e23250ee734a",
