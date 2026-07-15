@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T11:19:31.755586+00:00",
+ "generated_at": "2026-07-15T16:54:43.343940+00:00",
  "count": 80,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "c57c9e1d7567",
+   "company": "Santander",
+   "title": "Corporate & Investment Banking Latam Rates/FX Structured Products Analyst",
+   "location": "Madison Ave Corp",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Corporate---Investment-Banking-Latam-Rates-FX-Structured-Products-Analyst_Req1594213",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-15T16:53:30.279065+00:00"
+  },
   {
    "id": "ededc57ebcfa",
    "company": "ING",
@@ -750,17 +761,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-07T21:15:15.664096+00:00"
-  },
-  {
-   "id": "10bbddd1bddc",
-   "company": "ING",
-   "title": "(Securities) Debt Capital Markets Intern 2026 2H",
-   "location": "Seoul",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Seoul/XMLNAME--Securities--Debt-Capital-Markets-Intern-2026-2H_REQ-10114112-1",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:14.558985+00:00"
   },
   {
    "id": "9889980e5192",
