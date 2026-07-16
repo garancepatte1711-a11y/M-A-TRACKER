@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-16T11:58:12.823511+00:00",
- "count": 79,
+ "generated_at": "2026-07-16T16:52:39.681913+00:00",
+ "count": 80,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "cb152b68d93d",
+   "company": "ING",
+   "title": "Intern M&A Midcorp",
+   "location": "Bruxelles Avenue Marnix (ING)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/Intern-M-A-Midcorp_REQ-10118262",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-16T16:50:36.075226+00:00"
+  },
   {
    "id": "ededc57ebcfa",
    "company": "ING",
