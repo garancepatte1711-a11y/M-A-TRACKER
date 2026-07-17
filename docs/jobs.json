@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-17T16:39:36.627037+00:00",
- "count": 85,
+ "generated_at": "2026-07-17T21:11:46.029918+00:00",
+ "count": 84,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,17 +14,6 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
-  {
-   "id": "cc0c675333d1",
-   "company": "Santander",
-   "title": "Corporate & I-Banking Debt Capital Markets Transaction Management Analyst",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Corporate---I-Banking-Debt-Capital-Markets-Transaction-Management-Analyst_Req1594431",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-17T16:38:17.220571+00:00"
-  },
   {
    "id": "07684b652265",
    "company": "Santander",
