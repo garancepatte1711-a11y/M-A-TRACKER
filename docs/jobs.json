@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-16T21:48:13.221287+00:00",
- "count": 80,
+ "generated_at": "2026-07-17T11:12:05.325655+00:00",
+ "count": 82,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,39 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "2cc8dd5259a2",
+   "company": "ING",
+   "title": "Digital Customer Journey Expert – Customer Acquisition & Engagement",
+   "location": "Bruxelles Avenue Marnix (ING)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/Digital-Customer-Journey-Expert---Customer-Acquisition---Engagement_REQ-10117505-2",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-17T11:10:19.524147+00:00"
+  },
+  {
+   "id": "1400c2f8ca9a",
+   "company": "ING",
+   "title": "CMA ECG Corporate Finance | M&A Analyst",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/CMA-ECG-Corporate-Finance---M-A-Analyst_REQ-10117992-3",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-17T11:10:19.523981+00:00"
+  },
+  {
+   "id": "acfbc4febaa4",
+   "company": "ING",
+   "title": "CMA ECG Analyst/Associate Home base Debt Capital Markets FIG",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/CMA-ECG-Analyst-Associate-Home-base-Debt-Capital-Markets-FIG_REQ-10117925-1",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-17T11:10:18.442394+00:00"
+  },
   {
    "id": "cb152b68d93d",
    "company": "ING",
@@ -772,17 +805,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-07T21:15:12.577478+00:00"
-  },
-  {
-   "id": "9223a1de5d10",
-   "company": "ING",
-   "title": "Internship Debt Capital Markets  Investment Grade Corporate team",
-   "location": "AME (Amsterdam - Maple)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Debt-Capital-Markets--Investment-Grade-Corporate-team_REQ-10117671",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:10.488664+00:00"
   },
   {
    "id": "1914ffb88610",
