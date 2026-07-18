@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-17T21:11:46.029918+00:00",
- "count": 84,
+ "generated_at": "2026-07-18T10:49:08.683908+00:00",
+ "count": 82,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,28 +14,6 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
-  {
-   "id": "07684b652265",
-   "company": "Santander",
-   "title": "Investment Banking - Banker - Real Estate - VP - New York",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/CIB---Investment-Banking-Vice-President--REGAL_Req1578164",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-17T16:38:17.220493+00:00"
-  },
-  {
-   "id": "1e5536f6905d",
-   "company": "Santander",
-   "title": "Investment Banking - Banker - Tech - VP - New York or San Francisco",
-   "location": "2 Locations",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/UCM---San-Francisco/Investment-Banking---Banker---Tech---VP---New-York-or-San-Francisco_Req1582664",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-17T16:38:17.220417+00:00"
-  },
   {
    "id": "2cc8dd5259a2",
    "company": "ING",
