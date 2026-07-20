@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-20T13:28:19.594833+00:00",
- "count": 80,
+ "generated_at": "2026-07-20T21:53:25.156986+00:00",
+ "count": 79,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -68,17 +68,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-14T21:32:55.291597+00:00"
-  },
-  {
-   "id": "2c918fa09c52",
-   "company": "ING",
-   "title": "Customer Acquisition Manager (Digital)",
-   "location": "Sydney",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Sydney/Customer-Acquisition-Manager--Digital-_REQ-10116085-1",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-10T13:28:22.080322+00:00"
   },
   {
    "id": "d538a4670aec",
