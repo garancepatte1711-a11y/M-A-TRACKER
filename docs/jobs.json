@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T12:15:59.933763+00:00",
+ "generated_at": "2026-07-22T21:57:45.023438+00:00",
  "count": 79,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,28 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "be71403ec8b7",
+   "company": "ING",
+   "title": "Analyst/Associate Transaction Services Sales Cash Consultant Iberia",
+   "location": "Madrid (Vía de los Poblados)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Madrid-Va-de-los-Poblados/Analyst-Associate-Transaction-Services-Sales-Cash-Consultant-Iberia_REQ-10118434-1",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-22T21:55:34.881763+00:00"
+  },
+  {
+   "id": "360860c97383",
+   "company": "ING",
+   "title": "Internship ING Corporate Finance (M&A)",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-ING-Corporate-Finance--M-A-_REQ-10118641",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-22T21:55:34.881730+00:00"
+  },
   {
    "id": "e4e304d6c362",
    "company": "ING",
@@ -576,17 +598,6 @@
    "detected_at": "2026-07-07T21:31:41.578692+00:00"
   },
   {
-   "id": "7f88f1b9bf6e",
-   "company": "Point72",
-   "title": "Macro Valuation & Intraday Pricing Specialist, Hong Kong",
-   "location": "Hong Kong",
-   "url": "https://boards.greenhouse.io/point72/jobs/8485894002?gh_jid=8485894002",
-   "contract": "Autre",
-   "posted_at": "2026-07-13T19:22:44-04:00",
-   "source": "ats",
-   "detected_at": "2026-07-07T21:31:41.578594+00:00"
-  },
-  {
    "id": "4c0194cc68c3",
    "company": "Point72",
    "title": "Associate, Macro Valuation",
@@ -805,17 +816,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-07T21:15:09.516508+00:00"
-  },
-  {
-   "id": "66aea9cf5001",
-   "company": "Blackstone",
-   "title": "2026 Blackstone Private Equity H2 Off Cycle Internship (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship--London-_40745",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:06.312364+00:00"
   },
   {
    "id": "534cf9ee4389",
