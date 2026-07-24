@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-23T21:41:47.002983+00:00",
- "count": 78,
+ "generated_at": "2026-07-24T12:00:17.073858+00:00",
+ "count": 80,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,39 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "477cb38ef55d",
+   "company": "Eight Advisory",
+   "title": "Transaction Services - Manager",
+   "location": "Amsterdam, Hollande septentrionale, Pays-Bas",
+   "url": "https://8advisory.recruitee.com/o/transaction-services-manager-nl",
+   "contract": "Autre",
+   "posted_at": "2026-07-24 09:09:05 UTC",
+   "source": "ats",
+   "detected_at": "2026-07-24T11:59:10.906332+00:00"
+  },
+  {
+   "id": "363d5a7a06a3",
+   "company": "ING",
+   "title": "Intern, Debt Capital Markets APAC",
+   "location": "Singapore",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Debt-Capital-Markets-APAC_REQ-10118893-1",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-24T11:58:21.431168+00:00"
+  },
+  {
+   "id": "0c2c48a24926",
+   "company": "ING",
+   "title": "Stagiaire Leveraged Finance H/F/X-1",
+   "location": "Paris Richelieu",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Paris-Richelieu/Stagiaire-Leveraged-Finance-H-F-X-1_REQ-10118919-2",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-24T11:58:21.431059+00:00"
+  },
   {
    "id": "9223a1de5d10",
    "company": "ING",
@@ -750,17 +783,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-07T21:15:17.665607+00:00"
-  },
-  {
-   "id": "e23250ee734a",
-   "company": "ING",
-   "title": "Talent Acquisition Intern",
-   "location": "Bruxelles Avenue Marnix (ING)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/Talent-Acquisition-Intern_REQ-10117440",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:15.664096+00:00"
   },
   {
    "id": "9889980e5192",
