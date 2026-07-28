@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T21:52:09.803306+00:00",
+ "generated_at": "2026-07-28T12:27:32.544198+00:00",
  "count": 76,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "ff1073a5f936",
+   "company": "ING",
+   "title": "Internship Debt Capital Markets - Investment Grade Corporate team",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Debt-Capital-Markets--Investment-Grade-Corporate-team_REQ-10117671",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-28T12:25:22.931065+00:00"
+  },
   {
    "id": "477cb38ef55d",
    "company": "Eight Advisory",
@@ -68,17 +79,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-20T13:26:29.288674+00:00"
-  },
-  {
-   "id": "2cc8dd5259a2",
-   "company": "ING",
-   "title": "Digital Customer Journey Expert – Customer Acquisition & Engagement",
-   "location": "Bruxelles Avenue Marnix (ING)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/Digital-Customer-Journey-Expert---Customer-Acquisition---Engagement_REQ-10117505-2",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-17T11:10:19.524147+00:00"
   },
   {
    "id": "ededc57ebcfa",
