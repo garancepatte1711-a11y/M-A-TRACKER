@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-28T21:48:30.954480+00:00",
- "count": 75,
+ "generated_at": "2026-07-29T13:12:59.520845+00:00",
+ "count": 73,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "8518f958d43a",
+   "company": "Blackstone",
+   "title": "2027 Blackstone Strategic Partners Private Equity Secondaries Summer Analyst (London)",
+   "location": "London",
+   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Private-Equity-Secondaries-Summer-Analyst--London-_43192",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-07-29T13:10:45.144493+00:00"
+  },
   {
    "id": "ff1073a5f936",
    "company": "ING",
@@ -90,17 +101,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-15T11:17:33.845155+00:00"
-  },
-  {
-   "id": "d538a4670aec",
-   "company": "ING",
-   "title": "Vice President, Corporate Finance Advisory",
-   "location": "Singapore",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Vice-President--Corporate-Finance-Advisory_REQ-10116980-2",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-10T13:28:20.651332+00:00"
   },
   {
    "id": "f8a76ee6921d",
@@ -593,7 +593,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/8468870002?gh_jid=8468870002",
    "contract": "Autre",
-   "posted_at": "2026-07-13T19:22:44-04:00",
+   "posted_at": "2026-07-28T20:49:10-04:00",
    "source": "ats",
    "detected_at": "2026-07-07T21:31:41.578692+00:00"
   },
@@ -604,7 +604,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8367891002?gh_jid=8367891002",
    "contract": "CDI",
-   "posted_at": "2026-07-13T19:22:44-04:00",
+   "posted_at": "2026-07-28T20:49:23-04:00",
    "source": "ats",
    "detected_at": "2026-07-07T21:31:41.577637+00:00"
   },
@@ -662,17 +662,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-07T21:15:38.735274+00:00"
-  },
-  {
-   "id": "66c280c314c1",
-   "company": "ING",
-   "title": "Vice President Cash & Trade Solutions Sales für Wholesale Banking – Transaction Services Sales (w/m/d)",
-   "location": "Frankfurt",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Frankfurt/Vice-President-Cash---Trade-Solutions-Sales-fr-Wholesale-Banking---Transaction-Services-Sales--w-m-d-_REQ-10114047",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:34.870385+00:00"
   },
   {
    "id": "7d9679a8e9ce",
@@ -827,17 +816,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-07T21:15:06.312190+00:00"
-  },
-  {
-   "id": "5afc2551952c",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Strategic Partners Private Equity Secondaries Summer Analyst (London)",
-   "location": "Berkeley Square House London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Strategic-Partners-Private-Equity-Secondaries-Summer-Analyst--London-_43192",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:06.312137+00:00"
   }
  ]
 }
