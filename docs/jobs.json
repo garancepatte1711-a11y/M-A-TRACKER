@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-30T21:51:48.276552+00:00",
- "count": 73,
+ "generated_at": "2026-07-31T12:34:12.235624+00:00",
+ "count": 72,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -728,17 +728,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-07T21:15:12.577478+00:00"
-  },
-  {
-   "id": "1914ffb88610",
-   "company": "ING",
-   "title": "Associate, Corporate Finance Advisory",
-   "location": "Singapore",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Associate--Corporate-Finance-Advisory_REQ-10116979-1",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:10.488605+00:00"
   },
   {
    "id": "aa2c4cb320ac",
