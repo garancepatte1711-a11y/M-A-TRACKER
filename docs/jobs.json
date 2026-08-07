@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T12:32:40.294844+00:00",
+ "generated_at": "2026-08-07T00:05:31.123999+00:00",
  "count": 73,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "a5654cc95cc0",
+   "company": "Santander",
+   "title": "Investment Banking Analyst",
+   "location": "Madison Ave Corp",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Analyst_Req1555604",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-08-07T00:04:24.560890+00:00"
+  },
   {
    "id": "1961be030db8",
    "company": "ING",
@@ -79,17 +90,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-07-29T13:10:45.144493+00:00"
-  },
-  {
-   "id": "ff1073a5f936",
-   "company": "ING",
-   "title": "Internship Debt Capital Markets - Investment Grade Corporate team",
-   "location": "AME (Amsterdam - Maple)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Debt-Capital-Markets--Investment-Grade-Corporate-team_REQ-10117671",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-28T12:25:22.931065+00:00"
   },
   {
    "id": "477cb38ef55d",
