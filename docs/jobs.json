@@ -1,74 +1,22 @@
 {
- "generated_at": "2026-08-07T19:01:54.979659+00:00",
- "count": 74,
+ "generated_at": "2026-08-08T06:57:11.406768+00:00",
+ "count": 47,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
   "Evercore Campus (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/evercore/jobs",
   "Sia Partners (lever): 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/sia-partners?mode=json",
-  "Rothschild & Co (workday): 404 Client Error: Not Found for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Careers/jobs",
-  "Moelis & Company (workday): 404 Client Error: Not Found for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
+  "Blackstone (workday): Expecting value: line 1 column 1 (char 0)",
+  "Rothschild & Co (workday): Expecting value: line 1 column 1 (char 0)",
+  "Moelis & Company (workday): Expecting value: line 1 column 1 (char 0)",
+  "ING (workday): Expecting value: line 1 column 1 (char 0)",
+  "Santander (workday): Expecting value: line 1 column 1 (char 0)",
   "Schroders (workday): 422 Client Error: Unprocessable Entity for url: https://schroders.wd3.myworkdayjobs.com/wday/cxs/schroders/schroderscareers/jobs",
-  "PIMCO (workday): 404 Client Error: Not Found for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/PIMCO/jobs",
+  "PIMCO (workday): Expecting value: line 1 column 1 (char 0)",
   "Jefferies (workday): 422 Client Error: Unprocessable Entity for url: https://jefferies.wd5.myworkdayjobs.com/wday/cxs/jefferies/jefferiescareers/jobs",
-  "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
+  "Fidelity Intl (workday): Expecting value: line 1 column 1 (char 0)"
  ],
  "jobs": [
-  {
-   "id": "3f77cca8b1b0",
-   "company": "ING",
-   "title": "Director / VP - Transaction Services Local Product Manager",
-   "location": "Bruxelles Avenue Marnix (ING)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/Director---VP---Transaction-Services-Local-Product-Manager_REQ-10118321-2",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-07T13:07:57.746005+00:00"
-  },
-  {
-   "id": "a5654cc95cc0",
-   "company": "Santander",
-   "title": "Investment Banking Analyst",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Analyst_Req1555604",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-07T00:04:24.560890+00:00"
-  },
-  {
-   "id": "1961be030db8",
-   "company": "ING",
-   "title": "Funnel Optimization Specialist | Acquisition - Home'Bank App @ING Bank",
-   "location": "Expo Business Park",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Expo-Business-Park/Funnel-Optimization-Specialist---Acquisition---Home-Bank-App--ING-Bank_REQ-10115445",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-05T12:26:52.382499+00:00"
-  },
-  {
-   "id": "feabbd10ad65",
-   "company": "ING",
-   "title": "Intern, Transaction Services Hong Kong",
-   "location": "Hong Kong",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Hong-Kong/Intern--Transaction-Services_REQ-10104277-2",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-04T12:30:20.926885+00:00"
-  },
-  {
-   "id": "2181d207997c",
-   "company": "ING",
-   "title": "Global Capital Markets, Associate",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Global-Capital-Markets--Associate_REQ-10119343",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-03T15:59:25.225187+00:00"
-  },
   {
    "id": "8ef5298d4664",
    "company": "IMC Trading",
@@ -92,17 +40,6 @@
    "detected_at": "2026-07-30T12:14:42.935407+00:00"
   },
   {
-   "id": "8518f958d43a",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Strategic Partners Private Equity Secondaries Summer Analyst (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Private-Equity-Secondaries-Summer-Analyst--London-_43192",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-29T13:10:45.144493+00:00"
-  },
-  {
    "id": "477cb38ef55d",
    "company": "Eight Advisory",
    "title": "Transaction Services - Manager",
@@ -112,50 +49,6 @@
    "posted_at": "2026-07-24 09:09:05 UTC",
    "source": "ats",
    "detected_at": "2026-07-24T11:59:10.906332+00:00"
-  },
-  {
-   "id": "363d5a7a06a3",
-   "company": "ING",
-   "title": "Intern, Debt Capital Markets APAC",
-   "location": "Singapore",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Debt-Capital-Markets-APAC_REQ-10118893-1",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-24T11:58:21.431168+00:00"
-  },
-  {
-   "id": "e4e304d6c362",
-   "company": "ING",
-   "title": "Analyst/Associate, Trade Centre of Expertise (COE), Transaction Services",
-   "location": "Singapore",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Analyst-Associate--Trade-Centre-of-Expertise--COE---Transaction-Services_REQ-10118447",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-20T13:26:29.288674+00:00"
-  },
-  {
-   "id": "ededc57ebcfa",
-   "company": "ING",
-   "title": "Analyst/ Associate, Corporate Finance",
-   "location": "Hong Kong",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Hong-Kong/Associate--Corporate-Finance_REQ-10117272-1",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-15T11:17:33.845155+00:00"
-  },
-  {
-   "id": "f8a76ee6921d",
-   "company": "ING",
-   "title": "ABS Syndicate Specialist, IG/DCM - Vice President",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/ABS-Syndicate-Specialist--IG-DCM---Vice-President_REQ-10117988",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-09T22:52:04.641509+00:00"
   },
   {
    "id": "0775c2ebf77f",
@@ -640,193 +533,6 @@
    "posted_at": "2026-08-03T20:06:28-04:00",
    "source": "ats",
    "detected_at": "2026-07-07T21:31:41.577637+00:00"
-  },
-  {
-   "id": "ec31244ab6d8",
-   "company": "ING",
-   "title": "Senior Vicepresident - Transaction Services Sales Cash Consultant Iberia",
-   "location": "Madrid (Vía de los Poblados)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Madrid-Va-de-los-Poblados/Senior-Vicepresident---Transaction-Services-Sales-Cash-Consultant-Iberia_REQ-10101625-1",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:42.397568+00:00"
-  },
-  {
-   "id": "df13d6008955",
-   "company": "ING",
-   "title": "Associate, Portfolio Management - Corporate Finance",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Associate--Portfolio-Management---Corporate-Finance_REQ-10106117",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:40.937575+00:00"
-  },
-  {
-   "id": "46f43f7d9bd8",
-   "company": "ING",
-   "title": "ING WB Capital Markets & Advisory Internship Program",
-   "location": "Bruxelles Avenue Marnix (ING)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/ING-Capital-Markets---Advisory-Internship-Program_REQ-10094147",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:39.913161+00:00"
-  },
-  {
-   "id": "d19eb7ad5d45",
-   "company": "ING",
-   "title": "Associate, Corporate Finance M&A",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Associate--Corporate-Finance-M-A_REQ-10107595",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:39.913073+00:00"
-  },
-  {
-   "id": "a39ce50aa966",
-   "company": "ING",
-   "title": "Analyst, Corporate Finance M&A",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Analyst--Corporate-Finance-M-A_REQ-10111342",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:38.735274+00:00"
-  },
-  {
-   "id": "7d9679a8e9ce",
-   "company": "ING",
-   "title": "Associate, Leveraged & Structured Corporate Finance",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Associate--Leveraged---Structured-Corporate-Finance_REQ-10115041",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:31.657672+00:00"
-  },
-  {
-   "id": "f3818d63be62",
-   "company": "ING",
-   "title": "Vice President, Transaction Services Sales",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Vice-President--Transaction-Services-Sales_REQ-10115971",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:28.722766+00:00"
-  },
-  {
-   "id": "a88e9c188dcc",
-   "company": "ING",
-   "title": "Data Analyst | Investment Banking @ING Hubs Romania",
-   "location": "Bucharest - Dacia One",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/Data-Analyst---Investment-Banking--ING-Hubs-Romania_REQ-10117204",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:17.665680+00:00"
-  },
-  {
-   "id": "235f3b35cb90",
-   "company": "ING",
-   "title": "Private Banker Acquisition Limburg",
-   "location": "Hasselt Welvaartstraat",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Hasselt-Welvaartstraat/Private-Banker-Acquisition-Limburg_REQ-10111692-3",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:17.665607+00:00"
-  },
-  {
-   "id": "9889980e5192",
-   "company": "ING",
-   "title": "Private Banker - Acquisition (Oost- of West-Vlaanderen)",
-   "location": "4 Locations",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Gent-Fabiolalaan/Private-Banker---Acquisition--Oost--of-West-Vlaanderen-_REQ-10117490-2",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:12.577478+00:00"
-  },
-  {
-   "id": "aa2c4cb320ac",
-   "company": "ING",
-   "title": "Transaction Services Sales (Payments & Cash Management)",
-   "location": "Luxembourg (Siège Lux House)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Luxembourg-Sige-Lux-House/Transaction-Services-Sales--Payments---Cash-Management_REQ-10101544-1",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:10.488506+00:00"
-  },
-  {
-   "id": "53a84b3c6ea5",
-   "company": "ING",
-   "title": "Transaction Services (TS) Sales - Vice President",
-   "location": "Paris Richelieu",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Paris-Richelieu/Transaction-Services--TS--Sales---Vice-President_REQ-10117635-1",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:09.516508+00:00"
-  },
-  {
-   "id": "534cf9ee4389",
-   "company": "Blackstone",
-   "title": "2026 Blackstone Private Equity H2 Off Cycle Internship Frankfurt",
-   "location": "Frankfurt Omniturm",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Frankfurt-Omniturm/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship-Frankfurt_41376-1",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:06.312333+00:00"
-  },
-  {
-   "id": "a357c240367c",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:06.312300+00:00"
-  },
-  {
-   "id": "813f8c3bf8ca",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Private Equity Summer Analyst (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Private-Equity-Summer-Analyst--London-_43186",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:06.312272+00:00"
-  },
-  {
-   "id": "dec81db5ce46",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:06.312240+00:00"
-  },
-  {
-   "id": "c7a6421b7bca",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-07-07T21:15:06.312190+00:00"
   }
  ]
 }
