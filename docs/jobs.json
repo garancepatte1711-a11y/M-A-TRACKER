@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-14T13:12:03.655212+00:00",
- "count": 75,
+ "generated_at": "2026-08-14T18:58:49.876839+00:00",
+ "count": 74,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,17 +14,6 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
-  {
-   "id": "036904b11830",
-   "company": "Santander",
-   "title": "Investment Banking Associate",
-   "location": "2 Locations",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Associate_Req1589770",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-14T07:27:37.073866+00:00"
-  },
   {
    "id": "075727b4018c",
    "company": "ING",
@@ -824,7 +813,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/8468870002?gh_jid=8468870002",
    "contract": "Autre",
-   "posted_at": "2026-08-03T20:06:28-04:00",
+   "posted_at": "2026-08-14T12:04:00-04:00",
    "source": "ats",
    "detected_at": "2026-07-07T21:31:41.578692+00:00"
   },
@@ -835,7 +824,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8367891002?gh_jid=8367891002",
    "contract": "CDI",
-   "posted_at": "2026-08-03T20:06:28-04:00",
+   "posted_at": "2026-08-14T12:04:12-04:00",
    "source": "ats",
    "detected_at": "2026-07-07T21:31:41.577637+00:00"
   }
