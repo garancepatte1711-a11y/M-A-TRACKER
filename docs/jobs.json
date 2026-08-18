@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T18:43:13.465215+00:00",
+ "generated_at": "2026-08-18T06:48:07.829169+00:00",
  "count": 75,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -15,15 +15,15 @@
  ],
  "jobs": [
   {
-   "id": "7a938df1a17e",
-   "company": "Santander",
-   "title": "Investment Banking - Senior Associate / Vice President - Consumer & Retail - New York",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Vice-President--Consumer---Retail---New-York_Req1472926-1",
+   "id": "aa83dd96e4c2",
+   "company": "ING",
+   "title": "Analyst, Acquisition Finance",
+   "location": "Singapore",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Analyst--Acquisition-Finance_REQ-10120032-1",
    "contract": "CDI",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-08-17T18:41:58.436474+00:00"
+   "detected_at": "2026-08-18T06:46:09.656049+00:00"
   },
   {
    "id": "a5654cc95cc0",
