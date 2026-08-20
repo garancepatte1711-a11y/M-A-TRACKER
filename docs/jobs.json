@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-19T18:39:45.044640+00:00",
- "count": 78,
+ "generated_at": "2026-08-20T06:51:20.246695+00:00",
+ "count": 79,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -15,15 +15,26 @@
  ],
  "jobs": [
   {
-   "id": "5e175d929faa",
+   "id": "123c78125c9a",
    "company": "Santander",
-   "title": "2027 Investment Banking NY Full Time Analyst-4",
+   "title": "VP - Corporate Finance Execution LATAM",
+   "location": "GARAY 151 PISO 9",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/GARAY-151-PISO-9/VP---Corporate-Finance-Execution-LATAM_Req1596067",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-08-20T06:49:59.546689+00:00"
+  },
+  {
+   "id": "e1c7a55bb4dc",
+   "company": "Santander",
+   "title": "Corporate & Investment Banking Receivables Financing Associate",
    "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Investment-Banking-NY-Full-Time-Analyst-4_Req1600081",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Corporate---Investment-Banking-Receivables-Financing-Associate_Req1601504",
    "contract": "CDI",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-08-19T18:38:33.678032+00:00"
+   "detected_at": "2026-08-20T06:49:57.939314+00:00"
   },
   {
    "id": "4a4189c565e7",
