@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-23T18:34:02.848697+00:00",
- "count": 79,
+ "generated_at": "2026-08-24T07:03:46.660174+00:00",
+ "count": 80,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "45d57b36e798",
+   "company": "ING",
+   "title": "Head of Transaction Services, China and Hong Kong",
+   "location": "Hong Kong",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Hong-Kong/Head-of-Transaction-Services--China-and-Hong-Kong_REQ-10118807-3",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-08-24T07:01:39.275687+00:00"
+  },
   {
    "id": "a5654cc95cc0",
    "company": "Santander",
