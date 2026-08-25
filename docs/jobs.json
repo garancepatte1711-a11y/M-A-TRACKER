@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T12:52:45.823914+00:00",
- "count": 82,
+ "generated_at": "2026-08-25T18:43:26.428545+00:00",
+ "count": 80,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -79,28 +79,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:42:21.769402+00:00"
-  },
-  {
-   "id": "d19eb7ad5d45",
-   "company": "ING",
-   "title": "Associate, Corporate Finance M&A",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Associate--Corporate-Finance-M-A_REQ-10107595",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:42:21.769240+00:00"
-  },
-  {
-   "id": "a39ce50aa966",
-   "company": "ING",
-   "title": "Analyst, Corporate Finance M&A",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Analyst--Corporate-Finance-M-A_REQ-10111342",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:42:20.792226+00:00"
   },
   {
    "id": "f3818d63be62",
