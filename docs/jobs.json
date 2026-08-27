@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T19:51:26.877165+00:00",
+ "generated_at": "2026-08-27T17:28:00.580703+00:00",
  "count": 83,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -15,15 +15,15 @@
  ],
  "jobs": [
   {
-   "id": "6f7b25bb1f97",
-   "company": "Santander",
-   "title": "Associate, M&A - Infrastructure & Industrials | SCIB",
-   "location": "London",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/London/Associate--M-A---Infrastructure---Industrials_Req1606894",
+   "id": "0eb2729fc6fa",
+   "company": "ING",
+   "title": "Associate, Transaction Services Sales",
+   "location": "New York",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Associate--Transaction-Services-Sales_REQ-10120602",
    "contract": "CDI",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-08-26T19:50:23.182710+00:00"
+   "detected_at": "2026-08-27T17:26:00.470117+00:00"
   },
   {
    "id": "865309bc47ec",
