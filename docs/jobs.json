@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T13:02:28.502998+00:00",
+ "generated_at": "2026-08-31T22:38:42.769883+00:00",
  "count": 83,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -15,15 +15,26 @@
  ],
  "jobs": [
   {
-   "id": "0bdd0869cfcf",
-   "company": "Santander",
-   "title": "Structured & Corporate Finance Associate - (Pre & Post Middle Office)",
-   "location": "CDMX",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/CDMX/Structured---Corporate-Finance-Associate----Pre---Post-Middle-Office-_Req1608143",
+   "id": "a95f3dfce775",
+   "company": "ING",
+   "title": "Associate / Vice President – Acquisition Finance NL & DACH",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Associate---Vice-President---Acquisition-Finance-NL---DACH_REQ-10120188-2",
    "contract": "CDI",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-08-29T12:28:38.507335+00:00"
+   "detected_at": "2026-08-31T22:36:43.611582+00:00"
+  },
+  {
+   "id": "a250f3725193",
+   "company": "ING",
+   "title": "Intern Corporate Finance Mid-Market",
+   "location": "ACT (Amsterdam - Acanthus)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Intern-Corporate-Finance-Mid-Market_REQ-10120143",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-08-31T22:36:43.611453+00:00"
   },
   {
    "id": "0eb2729fc6fa",
@@ -200,17 +211,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:42:10.351530+00:00"
-  },
-  {
-   "id": "7d9679a8e9ce",
-   "company": "ING",
-   "title": "Associate, Leveraged & Structured Corporate Finance",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Associate--Leveraged---Structured-Corporate-Finance_REQ-10115041",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:42:07.349306+00:00"
   },
   {
    "id": "46f43f7d9bd8",
