@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T22:38:42.769883+00:00",
- "count": 83,
+ "generated_at": "2026-09-01T11:19:21.442868+00:00",
+ "count": 86,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,39 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "2b56d23bd030",
+   "company": "Santander",
+   "title": "Customer Acquisition Strategy Lead - Growth (Openbank)",
+   "location": "Madrid",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Customer-Acquisition-Strategy-Lead---Growth--Openbank-_Req1599348-1",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-01T11:18:06.582882+00:00"
+  },
+  {
+   "id": "363d5a7a06a3",
+   "company": "ING",
+   "title": "Intern, Debt Capital Markets APAC",
+   "location": "Singapore",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Debt-Capital-Markets-APAC_REQ-10118893-1",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-01T11:17:18.409702+00:00"
+  },
+  {
+   "id": "d76959ef35ee",
+   "company": "ING",
+   "title": "Intern, Acquisition Finance",
+   "location": "Singapore",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Acquisition-Finance_REQ-10120673-2",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-01T11:17:18.409611+00:00"
+  },
   {
    "id": "a95f3dfce775",
    "company": "ING",
