@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01T11:19:21.442868+00:00",
- "count": 86,
+ "generated_at": "2026-09-01T16:16:28.900397+00:00",
+ "count": 87,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -15,15 +15,26 @@
  ],
  "jobs": [
   {
-   "id": "2b56d23bd030",
+   "id": "2d5ae653a019",
    "company": "Santander",
-   "title": "Customer Acquisition Strategy Lead - Growth (Openbank)",
-   "location": "Madrid",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Customer-Acquisition-Strategy-Lead---Growth--Openbank-_Req1599348-1",
-   "contract": "Autre",
+   "title": "2027 Investment Banking Full Time Associate",
+   "location": "Madison Ave Corp",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Investment-Banking-Full-Time-Associate_Req1601685",
+   "contract": "CDI",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-09-01T11:18:06.582882+00:00"
+   "detected_at": "2026-09-01T16:15:19.319469+00:00"
+  },
+  {
+   "id": "205bb72f1d0d",
+   "company": "Santander",
+   "title": "2027 Investment Banking Summer Analyst - New York",
+   "location": "Madison Ave Corp",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Investment-Banking-Summer-Analyst---New-York_Req1531825",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-01T16:15:19.319449+00:00"
   },
   {
    "id": "363d5a7a06a3",
