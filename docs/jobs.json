@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-03T10:53:28.121010+00:00",
- "count": 87,
+ "generated_at": "2026-09-03T16:01:28.224589+00:00",
+ "count": 86,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -68,17 +68,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-09-01T11:17:18.409611+00:00"
-  },
-  {
-   "id": "a95f3dfce775",
-   "company": "ING",
-   "title": "Associate / Vice President – Acquisition Finance NL & DACH",
-   "location": "AME (Amsterdam - Maple)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Associate---Vice-President---Acquisition-Finance-NL---DACH_REQ-10120188-2",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-31T22:36:43.611582+00:00"
   },
   {
    "id": "0eb2729fc6fa",
