@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-08T16:15:47.879340+00:00",
- "count": 88,
+ "generated_at": "2026-09-08T20:53:02.899752+00:00",
+ "count": 87,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -35,17 +35,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-09-08T16:13:44.606245+00:00"
-  },
-  {
-   "id": "4c29ec45bf7a",
-   "company": "Santander",
-   "title": "Werkstudent Capital Markets (w/m/d)",
-   "location": "Mönchengladbach - Santander-Platz",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Mnchengladbach---Santander-Platz/Werkstudent-Capital-Markets--w-m-d-_Req1480634",
-   "contract": "Alternance",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-08T10:50:06.321917+00:00"
   },
   {
    "id": "b8fd1c5443ee",
