@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-08T20:53:02.899752+00:00",
- "count": 87,
+ "generated_at": "2026-09-09T10:57:55.859684+00:00",
+ "count": 88,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "3216d1cbc5e3",
+   "company": "Eight Advisory",
+   "title": "Avocat(e) collaborateur(trice) expérimenté(e) Corporate M&A",
+   "location": "Paris, Île-de-France, France",
+   "url": "https://8advisory.recruitee.com/o/avocate-collaborateurtrice-experimentee-corporate-ma",
+   "contract": "Autre",
+   "posted_at": "2026-09-09 08:03:17 UTC",
+   "source": "ats",
+   "detected_at": "2026-09-09T10:56:31.768683+00:00"
+  },
   {
    "id": "d61b7a927e09",
    "company": "ING",
