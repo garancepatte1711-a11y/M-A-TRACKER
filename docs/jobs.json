@@ -1,11 +1,9 @@
 {
- "generated_at": "2026-09-10T16:03:29.525893+00:00",
- "count": 84,
+ "generated_at": "2026-09-10T20:35:13.455499+00:00",
+ "count": 86,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
-  "IMC Trading (greenhouse): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=25)",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
-  "Optiver (greenhouse): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=25)",
   "Evercore Campus (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/evercore/jobs",
   "Sia Partners (lever): 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/sia-partners?mode=json",
   "Rothschild & Co (workday): 404 Client Error: Not Found for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Careers/jobs",
@@ -16,6 +14,28 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "8ef5298d4664",
+   "company": "IMC Trading",
+   "title": "Corporate Development Manager, China",
+   "location": "Hong Kong, Hong Kong; Sydney,  Australia",
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
+   "contract": "Autre",
+   "posted_at": "2026-08-26T07:31:50-04:00",
+   "source": "ats",
+   "detected_at": "2026-09-10T20:32:54.378863+00:00"
+  },
+  {
+   "id": "d9499506765d",
+   "company": "IMC Trading",
+   "title": "Corporate Development Manager",
+   "location": "Mumbai, India",
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
+   "contract": "Autre",
+   "posted_at": "2026-08-26T07:31:50-04:00",
+   "source": "ats",
+   "detected_at": "2026-09-10T20:32:54.378818+00:00"
+  },
   {
    "id": "3216d1cbc5e3",
    "company": "Eight Advisory",
