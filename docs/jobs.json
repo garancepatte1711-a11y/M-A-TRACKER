@@ -1,9 +1,11 @@
 {
- "generated_at": "2026-09-10T10:53:55.706474+00:00",
- "count": 87,
+ "generated_at": "2026-09-10T16:03:29.525893+00:00",
+ "count": 84,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
+  "IMC Trading (greenhouse): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=25)",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
+  "Optiver (greenhouse): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=25)",
   "Evercore Campus (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/evercore/jobs",
   "Sia Partners (lever): 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/sia-partners?mode=json",
   "Rothschild & Co (workday): 404 Client Error: Not Found for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Careers/jobs",
@@ -46,17 +48,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-09-08T16:13:44.606245+00:00"
-  },
-  {
-   "id": "b8fd1c5443ee",
-   "company": "ING",
-   "title": "Internship Sustainable Capital Markets",
-   "location": "AME (Amsterdam - Maple)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Sustainable-Capital-Markets_REQ-10121058",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-04T15:56:43.236404+00:00"
   },
   {
    "id": "6b1a13d77a60",
@@ -464,17 +455,6 @@
    "posted_at": "2026-08-21T14:23:32-04:00",
    "source": "ats",
    "detected_at": "2026-08-18T12:49:50.217090+00:00"
-  },
-  {
-   "id": "8ef5298d4664",
-   "company": "IMC Trading",
-   "title": "Corporate Development Manager, China",
-   "location": "Hong Kong, Hong Kong; Sydney,  Australia",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
-   "contract": "Autre",
-   "posted_at": "2026-08-26T07:31:50-04:00",
-   "source": "ats",
-   "detected_at": "2026-08-03T15:59:12.194201+00:00"
   },
   {
    "id": "a03a849a3239",
@@ -937,17 +917,6 @@
    "posted_at": "2026-03-19 15:03:32 UTC",
    "source": "ats",
    "detected_at": "2026-07-07T21:46:49.426710+00:00"
-  },
-  {
-   "id": "d9499506765d",
-   "company": "IMC Trading",
-   "title": "Corporate Development Manager",
-   "location": "Mumbai, India",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
-   "contract": "Autre",
-   "posted_at": "2026-08-26T07:31:50-04:00",
-   "source": "ats",
-   "detected_at": "2026-07-07T21:31:42.159048+00:00"
   },
   {
    "id": "e3a4c5879426",
