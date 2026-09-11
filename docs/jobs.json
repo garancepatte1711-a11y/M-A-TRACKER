@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T20:35:13.455499+00:00",
- "count": 86,
+ "generated_at": "2026-09-11T10:50:37.850705+00:00",
+ "count": 85,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -21,7 +21,7 @@
    "location": "Hong Kong, Hong Kong; Sydney,  Australia",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
    "contract": "Autre",
-   "posted_at": "2026-08-26T07:31:50-04:00",
+   "posted_at": "2026-09-10T16:35:40-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378863+00:00"
   },
@@ -32,7 +32,7 @@
    "location": "Mumbai, India",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
    "contract": "Autre",
-   "posted_at": "2026-08-26T07:31:50-04:00",
+   "posted_at": "2026-09-10T16:35:40-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378818+00:00"
   },
@@ -46,17 +46,6 @@
    "posted_at": "2026-09-09 08:03:17 UTC",
    "source": "ats",
    "detected_at": "2026-09-09T10:56:31.768683+00:00"
-  },
-  {
-   "id": "d61b7a927e09",
-   "company": "ING",
-   "title": "WO Meewerkstage Acquisition Finance & Structured Lending (AF&SL) bij ING Grootzakelijk",
-   "location": "ACT (Amsterdam - Acanthus)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/WO-Meewerkstage-Acquisition-Finance---Structured-Lending--AF-SL--bij-ING-Grootzakelijk_REQ-10121166",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-08T16:13:44.606321+00:00"
   },
   {
    "id": "a95f3dfce775",
