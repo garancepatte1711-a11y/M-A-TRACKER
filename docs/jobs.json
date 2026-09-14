@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T12:10:04.185165+00:00",
+ "generated_at": "2026-09-14T21:39:09.196451+00:00",
  "count": 84,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "00822c6ad130",
+   "company": "Santander",
+   "title": "2027 Investment Banking NY Full Time Analyst-14",
+   "location": "Madison Ave Corp",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Investment-Banking-NY-Full-Time-Analyst-14_Req1600071",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-14T21:37:46.988361+00:00"
+  },
   {
    "id": "8ef5298d4664",
    "company": "IMC Trading",
@@ -189,17 +200,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:42:21.769402+00:00"
-  },
-  {
-   "id": "f3818d63be62",
-   "company": "ING",
-   "title": "Vice President, Transaction Services Sales",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Vice-President--Transaction-Services-Sales_REQ-10115971",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:42:17.627444+00:00"
   },
   {
    "id": "235f3b35cb90",
