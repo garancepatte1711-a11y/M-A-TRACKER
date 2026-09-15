@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15T11:21:12.895663+00:00",
- "count": 85,
+ "generated_at": "2026-09-15T16:32:20.986908+00:00",
+ "count": 86,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "b595c6db4724",
+   "company": "Santander",
+   "title": "Analyst, M&A - Technology, Media, & Telecommunications | SCIB",
+   "location": "London",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/London/Analyst-Associate--Banking---Corporate-Finance---TMT---SCIB_Req1587187-1",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-15T16:31:14.040500+00:00"
+  },
   {
    "id": "f5ffd0f35e4f",
    "company": "Eight Advisory",
@@ -43,7 +54,7 @@
    "location": "Hong Kong, Hong Kong; Sydney,  Australia",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
    "contract": "Autre",
-   "posted_at": "2026-09-10T16:35:40-04:00",
+   "posted_at": "2026-09-15T11:21:55-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378863+00:00"
   },
@@ -54,7 +65,7 @@
    "location": "Mumbai, India",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
    "contract": "Autre",
-   "posted_at": "2026-09-10T16:35:40-04:00",
+   "posted_at": "2026-09-15T11:21:55-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378818+00:00"
   },
