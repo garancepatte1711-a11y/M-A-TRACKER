@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14T21:39:09.196451+00:00",
- "count": 84,
+ "generated_at": "2026-09-15T11:21:12.895663+00:00",
+ "count": 85,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -15,15 +15,26 @@
  ],
  "jobs": [
   {
-   "id": "00822c6ad130",
-   "company": "Santander",
-   "title": "2027 Investment Banking NY Full Time Analyst-14",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Investment-Banking-NY-Full-Time-Analyst-14_Req1600071",
-   "contract": "CDI",
+   "id": "f5ffd0f35e4f",
+   "company": "Eight Advisory",
+   "title": "Strategic Valuation & Modeling - Stagiaire",
+   "location": "Paris, Île-de-France, France",
+   "url": "https://8advisory.recruitee.com/o/strategic-valuation-modeling-stagiaire",
+   "contract": "Stage",
+   "posted_at": "2025-11-03 10:02:00 UTC",
+   "source": "ats",
+   "detected_at": "2026-09-15T11:20:04.313120+00:00"
+  },
+  {
+   "id": "59436669a641",
+   "company": "ING",
+   "title": "Internship Debt Capital Markets – IG Corporate Origination",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Debt-Capital-Markets---IG-Corporate-Origination_REQ-10121509",
+   "contract": "Stage",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-09-14T21:37:46.988361+00:00"
+   "detected_at": "2026-09-15T11:19:12.976062+00:00"
   },
   {
    "id": "8ef5298d4664",
@@ -74,7 +85,7 @@
    "company": "ING",
    "title": "Intern, Debt Capital Markets APAC",
    "location": "Singapore",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Debt-Capital-Markets-APAC_REQ-10118893-1",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Debt-Capital-Markets-APAC_REQ-10120855-1",
    "contract": "Stage",
    "posted_at": null,
    "source": "ats",
