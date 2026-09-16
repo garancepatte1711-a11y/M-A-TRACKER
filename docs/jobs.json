@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-16T11:04:19.968592+00:00",
- "count": 84,
+ "generated_at": "2026-09-16T16:24:00.232687+00:00",
+ "count": 87,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,39 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "deb31084d691",
+   "company": "Santander",
+   "title": "2027 Investment Banking NY Full Time Analyst-3",
+   "location": "Madison Ave Corp",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Investment-Banking-NY-Full-Time-Analyst-3_Req1600082",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-16T16:22:52.160856+00:00"
+  },
+  {
+   "id": "373cc3c2c2da",
+   "company": "ING",
+   "title": "Acquisition Finance Portfolio Management  - Associate",
+   "location": "London",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/London/Acquisition-Finance-Portfolio-Management----Associate_REQ-10121528-1",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-16T16:22:13.810443+00:00"
+  },
+  {
+   "id": "0f494328cfee",
+   "company": "Blackstone",
+   "title": "2027 Blackstone Real Estate Acquisitions Analyst (London)",
+   "location": "London",
+   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst--London-_44602",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-16T16:22:09.644045+00:00"
+  },
   {
    "id": "f5ffd0f35e4f",
    "company": "Eight Advisory",
