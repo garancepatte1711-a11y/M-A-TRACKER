@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T11:14:24.395729+00:00",
+ "generated_at": "2026-09-17T16:31:58.693407+00:00",
  "count": 86,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,28 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "9fd69b323be8",
+   "company": "Santander",
+   "title": "2027 Investment Banking Summer Associate Program - New York",
+   "location": "Madison Ave Corp",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Investment-Banking-Summer-Associate-Program---New-York_Req1613138",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-17T16:30:27.901935+00:00"
+  },
+  {
+   "id": "360860c97383",
+   "company": "ING",
+   "title": "Internship ING Corporate Finance (M&A)",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-ING-Corporate-Finance--M-A-_REQ-10121704",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-17T16:29:40.181427+00:00"
+  },
   {
    "id": "cd0453a8d380",
    "company": "ING",
@@ -57,17 +79,6 @@
    "posted_at": "2025-11-03 10:02:00 UTC",
    "source": "ats",
    "detected_at": "2026-09-15T11:20:04.313120+00:00"
-  },
-  {
-   "id": "59436669a641",
-   "company": "ING",
-   "title": "Internship Debt Capital Markets – IG Corporate Origination",
-   "location": "AME (Amsterdam - Maple)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Debt-Capital-Markets---IG-Corporate-Origination_REQ-10121509",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-15T11:19:12.976062+00:00"
   },
   {
    "id": "8ef5298d4664",
@@ -354,17 +365,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:41:54.529078+00:00"
-  },
-  {
-   "id": "aa83dd96e4c2",
-   "company": "ING",
-   "title": "Analyst, Acquisition Finance",
-   "location": "Singapore",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Analyst--Acquisition-Finance_REQ-10120032-1",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:41:50.364490+00:00"
   },
   {
    "id": "4a4189c565e7",
@@ -956,7 +956,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8367891002?gh_jid=8367891002",
    "contract": "CDI",
-   "posted_at": "2026-09-16T18:16:35-04:00",
+   "posted_at": "2026-09-17T11:31:36-04:00",
    "source": "ats",
    "detected_at": "2026-07-07T21:31:41.577637+00:00"
   }
