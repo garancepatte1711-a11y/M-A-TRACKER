@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-21T21:49:35.655417+00:00",
- "count": 85,
+ "generated_at": "2026-09-22T11:11:25.889353+00:00",
+ "count": 87,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,39 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "fe0515418652",
+   "company": "Santander",
+   "title": "Leveraged Finance Analyst",
+   "location": "NY 360 Lexington Ave",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/NY-360-Lexington-Ave/Leveraged-Finance-Analyst_Req1614301",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-22T11:10:11.021459+00:00"
+  },
+  {
+   "id": "5610c6fedc61",
+   "company": "ING",
+   "title": "INTERNSHIP - Talent Acquisition",
+   "location": "Luxembourg (Siège Lux House)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Luxembourg-Sige-Lux-House/INTERNSHIP---Talent-Acquisition_REQ-10121814",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-22T11:09:26.441318+00:00"
+  },
+  {
+   "id": "1c945808c18a",
+   "company": "Blackstone",
+   "title": "2027 Blackstone Private Equity Summer Associate / Senior Associate, Tokyo",
+   "location": "Tokyo",
+   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Tokyo/XMLNAME-2027-Blackstone-Private-Equity-Summer-Associate---Senior-Associate--Tokyo_45596",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-22T11:09:21.784052+00:00"
+  },
   {
    "id": "59436669a641",
    "company": "ING",
@@ -46,17 +79,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-09-17T11:12:43.358429+00:00"
-  },
-  {
-   "id": "373cc3c2c2da",
-   "company": "ING",
-   "title": "Acquisition Finance Portfolio Management  - Associate",
-   "location": "London",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/London/Acquisition-Finance-Portfolio-Management----Associate_REQ-10121528-1",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-16T16:22:13.810443+00:00"
   },
   {
    "id": "0f494328cfee",
