@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T16:33:01.580343+00:00",
- "count": 91,
+ "generated_at": "2026-09-22T21:02:22.661305+00:00",
+ "count": 88,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -15,48 +15,15 @@
  ],
  "jobs": [
   {
-   "id": "cc2bb1d95525",
-   "company": "Santander",
-   "title": "2027 Investment Banking Summer Associate Program - San Francisco",
-   "location": "UCM - San Francisco",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/UCM---San-Francisco/XMLNAME-2027-Investment-Banking-Summer-Associate-Program---San-Francisco_Req1614797",
+   "id": "01d8787f7ddd",
+   "company": "ING",
+   "title": "Analyst, Capital Markets & Advisory",
+   "location": "New York",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Analyst--Capital-Markets---Advisory_REQ-10122038",
    "contract": "CDI",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-09-22T16:31:55.999369+00:00"
-  },
-  {
-   "id": "835530c74b58",
-   "company": "Santander",
-   "title": "2027 Investment Banking Summer Associate Program - Los Angeles",
-   "location": "UCM - Los Angeles",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/UCM---Los-Angeles/XMLNAME-2027-Investment-Banking-Summer-Associate-Program---Los-Angeles_Req1614802",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-22T16:31:54.464019+00:00"
-  },
-  {
-   "id": "6c9cf25f09b9",
-   "company": "Santander",
-   "title": "Corporate & Investment Banking Trade Finance & Working Capital Sales - VP",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Corporate---Investment-Banking-Trade-Finance---Working-Capital-Sales---VP_Req1614779",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-22T16:31:54.463895+00:00"
-  },
-  {
-   "id": "a73b7ab2d2fd",
-   "company": "Santander",
-   "title": "Investment Banking - Banker - Industrials - Associate / Vice President - New York",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking---Banker---Industrials---Associate---Vice-President---New-York_Req1614818",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-22T16:31:54.463761+00:00"
+   "detected_at": "2026-09-22T21:00:08.987595+00:00"
   },
   {
    "id": "360860c97383",
