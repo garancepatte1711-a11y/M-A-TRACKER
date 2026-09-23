@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23T16:22:23.186795+00:00",
- "count": 90,
+ "generated_at": "2026-09-23T21:16:55.234952+00:00",
+ "count": 88,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -15,26 +15,15 @@
  ],
  "jobs": [
   {
-   "id": "845ddc2a2b33",
+   "id": "f1b45ac3e440",
    "company": "Santander",
-   "title": "Associate – Corporate Finance Execution LATAM",
-   "location": "GARAY 151 PISO 9",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/GARAY-151-PISO-9/Associate---Corporate-Finance-Execution-LATAM_Req1610054",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-23T16:21:17.016636+00:00"
-  },
-  {
-   "id": "c3ff16bbe8d4",
-   "company": "Santander",
-   "title": "Investment Banking - Banker - REGAL, Sports - Vice President - New York",
+   "title": "CIB Executive Director, Software Investment Banking",
    "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking---Banker---REGAL--Sports---Vice-President---New-York_Req1614998-1",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/CIB-Executive-Director--Software-Investment-Banking_Req1610422",
    "contract": "Autre",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-09-23T16:21:17.016605+00:00"
+   "detected_at": "2026-09-23T21:15:42.977417+00:00"
   },
   {
    "id": "7901f06da194",
@@ -992,17 +981,6 @@
    "posted_at": "2026-03-19 15:03:32 UTC",
    "source": "ats",
    "detected_at": "2026-07-07T21:46:49.426710+00:00"
-  },
-  {
-   "id": "e3a4c5879426",
-   "company": "Point72",
-   "title": "Mortgage Valuation Specialist",
-   "location": "New York",
-   "url": "https://boards.greenhouse.io/point72/jobs/8468870002?gh_jid=8468870002",
-   "contract": "Autre",
-   "posted_at": "2026-09-23T04:47:59-04:00",
-   "source": "ats",
-   "detected_at": "2026-07-07T21:31:41.578692+00:00"
   }
  ]
 }
