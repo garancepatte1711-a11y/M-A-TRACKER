@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23T11:01:32.532083+00:00",
- "count": 88,
+ "generated_at": "2026-09-23T16:22:23.186795+00:00",
+ "count": 90,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -15,15 +15,48 @@
  ],
  "jobs": [
   {
-   "id": "01d8787f7ddd",
-   "company": "ING",
-   "title": "Analyst, Capital Markets & Advisory",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Analyst--Capital-Markets---Advisory_REQ-10122038",
+   "id": "845ddc2a2b33",
+   "company": "Santander",
+   "title": "Associate – Corporate Finance Execution LATAM",
+   "location": "GARAY 151 PISO 9",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/GARAY-151-PISO-9/Associate---Corporate-Finance-Execution-LATAM_Req1610054",
    "contract": "CDI",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-09-22T21:00:08.987595+00:00"
+   "detected_at": "2026-09-23T16:21:17.016636+00:00"
+  },
+  {
+   "id": "c3ff16bbe8d4",
+   "company": "Santander",
+   "title": "Investment Banking - Banker - REGAL, Sports - Vice President - New York",
+   "location": "Madison Ave Corp",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking---Banker---REGAL--Sports---Vice-President---New-York_Req1614998-1",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-23T16:21:17.016605+00:00"
+  },
+  {
+   "id": "7901f06da194",
+   "company": "ING",
+   "title": "Head of Transaction Services Private Markets",
+   "location": "London",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/London/Head-of-Transaction-Services-Private-Markets_REQ-10122084",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-23T16:20:38.049245+00:00"
+  },
+  {
+   "id": "0539d49218aa",
+   "company": "Blackstone",
+   "title": "2027 Blackstone Real Estate Acquisitions Analyst",
+   "location": "New York",
+   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-23T16:20:34.376564+00:00"
   },
   {
    "id": "360860c97383",
@@ -310,17 +343,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:42:12.464380+00:00"
-  },
-  {
-   "id": "f8a76ee6921d",
-   "company": "ING",
-   "title": "ABS Syndicate Specialist, IG/DCM - Vice President",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/ABS-Syndicate-Specialist--IG-DCM---Vice-President_REQ-10117988",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:42:11.412040+00:00"
   },
   {
    "id": "ededc57ebcfa",
