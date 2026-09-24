@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T11:20:37.860535+00:00",
+ "generated_at": "2026-09-24T16:44:55.958113+00:00",
  "count": 86,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -15,15 +15,15 @@
  ],
  "jobs": [
   {
-   "id": "f1b45ac3e440",
-   "company": "Santander",
-   "title": "CIB Executive Director, Software Investment Banking",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/CIB-Executive-Director--Software-Investment-Banking_Req1610422",
-   "contract": "Autre",
+   "id": "373cc3c2c2da",
+   "company": "ING",
+   "title": "Acquisition Finance Portfolio Management  - Associate",
+   "location": "London",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/London/Acquisition-Finance-Portfolio-Management----Associate_REQ-10121528-1",
+   "contract": "CDI",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-09-23T21:15:42.977417+00:00"
+   "detected_at": "2026-09-24T16:42:57.783185+00:00"
   },
   {
    "id": "0539d49218aa",
