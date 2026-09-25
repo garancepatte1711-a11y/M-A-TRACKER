@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T21:18:33.087692+00:00",
+ "generated_at": "2026-09-25T11:25:44.466858+00:00",
  "count": 86,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "cd0453a8d380",
+   "company": "ING",
+   "title": "Stagiaire Leveraged Finance H/F/X",
+   "location": "Paris Richelieu",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Paris-Richelieu/Stagiaire-Leveraged-Finance-H-F-X_REQ-10121751-2",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-25T11:23:41.810228+00:00"
+  },
   {
    "id": "373cc3c2c2da",
    "company": "ING",
@@ -81,17 +92,6 @@
    "detected_at": "2026-09-21T21:47:39.595765+00:00"
   },
   {
-   "id": "a95f3dfce775",
-   "company": "ING",
-   "title": "Associate / Vice President – Acquisition Finance NL & DACH",
-   "location": "AME (Amsterdam - Maple)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Associate---Vice-President---Acquisition-Finance-NL---DACH_REQ-10120188-2",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-18T16:01:13.621794+00:00"
-  },
-  {
    "id": "0f494328cfee",
    "company": "Blackstone",
    "title": "2027 Blackstone Real Estate Acquisitions Analyst (London)",
@@ -131,7 +131,7 @@
    "location": "Mumbai, India",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
    "contract": "Autre",
-   "posted_at": "2026-09-17T01:40:50-04:00",
+   "posted_at": "2026-09-25T04:25:31-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378818+00:00"
   },
