@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-27T21:04:38.897417+00:00",
- "count": 86,
+ "generated_at": "2026-09-28T13:15:02.785330+00:00",
+ "count": 82,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -48,17 +48,6 @@
    "detected_at": "2026-09-23T16:20:34.376564+00:00"
   },
   {
-   "id": "360860c97383",
-   "company": "ING",
-   "title": "Internship ING Corporate Finance (M&A)",
-   "location": "AME (Amsterdam - Maple)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-ING-Corporate-Finance--M-A-_REQ-10121704",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-22T16:31:15.883678+00:00"
-  },
-  {
    "id": "5610c6fedc61",
    "company": "ING",
    "title": "INTERNSHIP - Talent Acquisition",
@@ -103,24 +92,13 @@
    "detected_at": "2026-09-16T16:22:09.644045+00:00"
   },
   {
-   "id": "f5ffd0f35e4f",
-   "company": "Eight Advisory",
-   "title": "Strategic Valuation & Modeling - Stagiaire",
-   "location": "Paris, Île-de-France, France",
-   "url": "https://8advisory.recruitee.com/o/strategic-valuation-modeling-stagiaire",
-   "contract": "Stage",
-   "posted_at": "2025-11-03 10:02:00 UTC",
-   "source": "ats",
-   "detected_at": "2026-09-15T11:20:04.313120+00:00"
-  },
-  {
    "id": "8ef5298d4664",
    "company": "IMC Trading",
    "title": "Corporate Development Manager, China",
    "location": "Hong Kong, Hong Kong; Sydney,  Australia",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
    "contract": "Autre",
-   "posted_at": "2026-09-15T11:21:55-04:00",
+   "posted_at": "2026-09-28T04:57:14-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378863+00:00"
   },
@@ -131,7 +109,7 @@
    "location": "Mumbai, India",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
    "contract": "Autre",
-   "posted_at": "2026-09-25T04:25:31-04:00",
+   "posted_at": "2026-09-28T04:57:14-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378818+00:00"
   },
@@ -233,28 +211,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-24T12:53:34.164631+00:00"
-  },
-  {
-   "id": "45d57b36e798",
-   "company": "ING",
-   "title": "Head of Transaction Services, China and Hong Kong",
-   "location": "Hong Kong",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Hong-Kong/Head-of-Transaction-Services--China-and-Hong-Kong_REQ-10118807-3",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-24T07:01:39.275687+00:00"
-  },
-  {
-   "id": "a5654cc95cc0",
-   "company": "Santander",
-   "title": "Investment Banking Analyst",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Analyst_Req1555604",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:42:25.978154+00:00"
   },
   {
    "id": "ec31244ab6d8",
