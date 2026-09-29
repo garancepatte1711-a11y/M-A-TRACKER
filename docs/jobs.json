@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T12:23:12.615305+00:00",
+ "generated_at": "2026-09-29T22:01:43.326465+00:00",
  "count": 82,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -15,6 +15,28 @@
  ],
  "jobs": [
   {
+   "id": "758d77a31c15",
+   "company": "ING",
+   "title": "Vice President Acquisition Finance – DACH & Benelux (f/m/x)",
+   "location": "Frankfurt",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Frankfurt/Associate---Vice-President-Acquisition-Finance---DACH---Benelux--f-m-x-_REQ-10120262-1",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-29T21:59:53.341568+00:00"
+  },
+  {
+   "id": "e3a4c5879426",
+   "company": "Point72",
+   "title": "Mortgage Valuation Specialist",
+   "location": "New York",
+   "url": "https://boards.greenhouse.io/point72/jobs/8468870002?gh_jid=8468870002",
+   "contract": "Autre",
+   "posted_at": "2026-09-29T09:20:01-04:00",
+   "source": "ats",
+   "detected_at": "2026-09-29T21:59:41.115327+00:00"
+  },
+  {
    "id": "464641896d56",
    "company": "ING",
    "title": "Internship Transaction Services/Trade Finance Services",
@@ -24,17 +46,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-09-29T12:21:11.775439+00:00"
-  },
-  {
-   "id": "c3ff16bbe8d4",
-   "company": "Santander",
-   "title": "Investment Banking - Banker - REGAL, Sports - Vice President - New York",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking---Banker---REGAL--Sports---Vice-President---New-York_Req1614998-1",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-28T23:02:19.925700+00:00"
   },
   {
    "id": "cd0453a8d380",
@@ -109,7 +120,7 @@
    "location": "Hong Kong, Hong Kong; Sydney,  Australia",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
    "contract": "Autre",
-   "posted_at": "2026-09-28T17:49:10-04:00",
+   "posted_at": "2026-09-29T11:19:49-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378863+00:00"
   },
@@ -120,7 +131,7 @@
    "location": "Mumbai, India",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
    "contract": "Autre",
-   "posted_at": "2026-09-28T17:49:10-04:00",
+   "posted_at": "2026-09-29T11:19:49-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378818+00:00"
   },
@@ -200,17 +211,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-26T12:55:05.582185+00:00"
-  },
-  {
-   "id": "3cb74f4c3993",
-   "company": "ING",
-   "title": "Associate / Vice President Acquisition Finance – DACH & Benelux (f/m/x)",
-   "location": "Frankfurt",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Frankfurt/Associate---Vice-President-Acquisition-Finance---DACH---Benelux--f-m-x-_REQ-10120262-1",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-25T12:50:44.191355+00:00"
   },
   {
    "id": "171bdc446947",
