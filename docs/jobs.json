@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-28T23:03:54.636428+00:00",
- "count": 83,
+ "generated_at": "2026-09-29T12:23:12.615305+00:00",
+ "count": 82,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "464641896d56",
+   "company": "ING",
+   "title": "Internship Transaction Services/Trade Finance Services",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Transaction-Services-Trade-Finance-Services_REQ-10122340",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-09-29T12:21:11.775439+00:00"
+  },
   {
    "id": "c3ff16bbe8d4",
    "company": "Santander",
@@ -35,17 +46,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-09-25T11:23:41.810228+00:00"
-  },
-  {
-   "id": "373cc3c2c2da",
-   "company": "ING",
-   "title": "Acquisition Finance Portfolio Management  - Associate",
-   "location": "London",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/London/Acquisition-Finance-Portfolio-Management----Associate_REQ-10121528-1",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-24T16:42:57.783185+00:00"
   },
   {
    "id": "0539d49218aa",
@@ -365,17 +365,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:41:49.299203+00:00"
-  },
-  {
-   "id": "1b0151913b15",
-   "company": "ING",
-   "title": "Internship - Transaction Services Nordics & Baltics",
-   "location": "Bruxelles Avenue Marnix (ING)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/Internship---Transaction-Services-Nordics---Baltics_REQ-10119851",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:41:47.247428+00:00"
   },
   {
    "id": "adb2cd3d18b8",
