@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T12:41:37.386189+00:00",
+ "generated_at": "2026-10-01T22:28:46.369763+00:00",
  "count": 86,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "c6ef9fea2f40",
+   "company": "ING",
+   "title": "Associate Midcorp M&A",
+   "location": "Bruxelles Avenue Marnix (ING)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/Associate-Midcorp-M-A_REQ-10121423-1",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-01T22:26:46.293017+00:00"
+  },
   {
    "id": "fbe0c8641aa6",
    "company": "ING",
@@ -35,17 +46,6 @@
    "posted_at": "2024-04-19 09:30:18 UTC",
    "source": "ats",
    "detected_at": "2026-09-30T21:59:34.230973+00:00"
-  },
-  {
-   "id": "036904b11830",
-   "company": "Santander",
-   "title": "Investment Banking Associate",
-   "location": "2 Locations",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Associate_Req1589770",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-30T21:59:27.731607+00:00"
   },
   {
    "id": "73d68ebbeb89",
