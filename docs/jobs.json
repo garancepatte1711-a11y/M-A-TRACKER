@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-04T21:01:56.580413+00:00",
- "count": 85,
+ "generated_at": "2026-10-05T13:57:35.017244+00:00",
+ "count": 84,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "b6bf8e04fa49",
+   "company": "ING",
+   "title": "Intern, Transaction Services Sales",
+   "location": "Singapore",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Transaction-Services-Sales_REQ-10122531",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-05T13:55:27.330657+00:00"
+  },
   {
    "id": "66924c78cf7d",
    "company": "ING",
@@ -378,17 +389,6 @@
    "detected_at": "2026-08-22T12:41:54.529127+00:00"
   },
   {
-   "id": "13cad2e882f9",
-   "company": "ING",
-   "title": "Performance Specialist | Acquisition @ING Bank",
-   "location": "Expo Business Park",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Expo-Business-Park/Performance-Specialist---Acquisition--ING-Bank_REQ-10119821",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:41:54.529078+00:00"
-  },
-  {
    "id": "4a4189c565e7",
    "company": "ING",
    "title": "INTERNSHIP - Real Estate Valuation Expert - Property Valuer",
@@ -475,17 +475,6 @@
    "posted_at": "2024-09-16 13:57:43 UTC",
    "source": "ats",
    "detected_at": "2026-08-18T12:50:50.837135+00:00"
-  },
-  {
-   "id": "713dcfebee81",
-   "company": "Point72",
-   "title": "Talent Acquisition Analyst",
-   "location": "Bengaluru, India",
-   "url": "https://boards.greenhouse.io/point72/jobs/8720568002?gh_jid=8720568002",
-   "contract": "CDI",
-   "posted_at": "2026-09-15T17:33:58-04:00",
-   "source": "ats",
-   "detected_at": "2026-08-18T12:49:50.217090+00:00"
   },
   {
    "id": "a03a849a3239",
