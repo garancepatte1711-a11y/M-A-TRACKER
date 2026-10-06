@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T23:53:09.616701+00:00",
+ "generated_at": "2026-10-06T12:59:25.964383+00:00",
  "count": 85,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,28 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "70da42d92bf2",
+   "company": "ING",
+   "title": "Campaign Manager | Acquisition @ING Bank",
+   "location": "Expo Business Park",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Expo-Business-Park/Campaign-Manager---Acquisition--ING-Bank_REQ-10117228",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-06T12:57:38.744475+00:00"
+  },
+  {
+   "id": "fc40f6344d53",
+   "company": "ING",
+   "title": "WO Meewerkstage Structured Acquisition Finance Mid-Corporates",
+   "location": "ACT (Amsterdam - Acanthus)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/WO-Meewerkstage-Structured-Acquisition-Finance-Mid-Corporates_REQ-10122386",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-06T12:57:38.744280+00:00"
+  },
   {
    "id": "f09b7b62043a",
    "company": "Santander",
@@ -147,17 +169,6 @@
    "detected_at": "2026-09-22T11:09:21.784052+00:00"
   },
   {
-   "id": "59436669a641",
-   "company": "ING",
-   "title": "Internship Debt Capital Markets – IG Corporate Origination",
-   "location": "AME (Amsterdam - Maple)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Debt-Capital-Markets---IG-Corporate-Origination_REQ-10121509",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-21T21:47:39.595765+00:00"
-  },
-  {
    "id": "0f494328cfee",
    "company": "Blackstone",
    "title": "2027 Blackstone Real Estate Acquisitions Analyst (London)",
@@ -175,7 +186,7 @@
    "location": "Hong Kong, Hong Kong; Sydney,  Australia",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
    "contract": "Autre",
-   "posted_at": "2026-10-05T14:33:01-04:00",
+   "posted_at": "2026-10-06T08:52:36-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378863+00:00"
   },
@@ -186,7 +197,7 @@
    "location": "Mumbai, India",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
    "contract": "Autre",
-   "posted_at": "2026-10-05T14:33:01-04:00",
+   "posted_at": "2026-10-06T08:52:36-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378818+00:00"
   },
@@ -398,17 +409,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:41:54.529127+00:00"
-  },
-  {
-   "id": "4a4189c565e7",
-   "company": "ING",
-   "title": "INTERNSHIP - Real Estate Valuation Expert - Property Valuer",
-   "location": "Luxembourg (Siège Lux House)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Luxembourg-Sige-Lux-House/INTERNSHIP---Real-Estate-Valuation-Expert---Property-Valuer_REQ-10119909",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:41:49.299203+00:00"
   },
   {
    "id": "adb2cd3d18b8",
