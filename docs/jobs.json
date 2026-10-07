@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T22:29:45.244639+00:00",
+ "generated_at": "2026-10-07T12:53:47.043995+00:00",
  "count": 84,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "f0af21a7603c",
+   "company": "ING",
+   "title": "Internship Transaction Services Sales",
+   "location": "Bruxelles Avenue Marnix (ING)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/Internship-Transaction-Services-Sales_REQ-10122791",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-07T12:51:44.673692+00:00"
+  },
   {
    "id": "43e007b26ac9",
    "company": "ING",
@@ -125,17 +136,6 @@
    "detected_at": "2026-09-29T21:59:41.115327+00:00"
   },
   {
-   "id": "464641896d56",
-   "company": "ING",
-   "title": "Internship Transaction Services/Trade Finance Services",
-   "location": "AME (Amsterdam - Maple)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Transaction-Services-Trade-Finance-Services_REQ-10122340",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-29T12:21:11.775439+00:00"
-  },
-  {
    "id": "0539d49218aa",
    "company": "Blackstone",
    "title": "2027 Blackstone Real Estate Acquisitions Analyst",
@@ -186,7 +186,7 @@
    "location": "Hong Kong, Hong Kong; Sydney,  Australia",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
    "contract": "Autre",
-   "posted_at": "2026-10-06T08:52:36-04:00",
+   "posted_at": "2026-10-07T03:48:27-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378863+00:00"
   },
@@ -197,7 +197,7 @@
    "location": "Mumbai, India",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
    "contract": "Autre",
-   "posted_at": "2026-10-06T08:52:36-04:00",
+   "posted_at": "2026-10-07T03:48:27-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378818+00:00"
   },
