@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T00:18:48.498832+00:00",
+ "generated_at": "2026-10-13T13:49:03.665183+00:00",
  "count": 87,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,50 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "156dae32e225",
+   "company": "Eight Advisory",
+   "title": "Strategic Valuation & Modeling - Manager",
+   "location": "Frankfurt am Main, Hesse, Allemagne",
+   "url": "https://8advisory.recruitee.com/o/strategic-valuation-modeling-manager-3",
+   "contract": "Autre",
+   "posted_at": "2024-06-07 15:02:28 UTC",
+   "source": "ats",
+   "detected_at": "2026-10-13T13:47:50.332896+00:00"
+  },
+  {
+   "id": "0ab36a7eb138",
+   "company": "Eight Advisory",
+   "title": "Strategic Valuation & Modeling - Intern 2027",
+   "location": "Munich, Bavière, Allemagne",
+   "url": "https://8advisory.recruitee.com/o/strategic-valuation-modeling-intern-2027",
+   "contract": "Stage",
+   "posted_at": "2026-04-29 13:04:55 UTC",
+   "source": "ats",
+   "detected_at": "2026-10-13T13:47:50.332645+00:00"
+  },
+  {
+   "id": "52daaaba376c",
+   "company": "Eight Advisory",
+   "title": "Strategic Valuation & Modeling - Analyst",
+   "location": "Munich, Bavière, Allemagne",
+   "url": "https://8advisory.recruitee.com/o/strategic-valuation-modeling-analyst-3",
+   "contract": "CDI",
+   "posted_at": "2025-08-01 13:06:09 UTC",
+   "source": "ats",
+   "detected_at": "2026-10-13T13:47:50.332632+00:00"
+  },
+  {
+   "id": "f49bfc0607bc",
+   "company": "Eight Advisory",
+   "title": "Strategic Valuation & Modeling - Senior Analysts",
+   "location": "Munich, Bavière, Allemagne",
+   "url": "https://8advisory.recruitee.com/o/strategic-valuation-modeling-senior-analysts",
+   "contract": "Autre",
+   "posted_at": "2026-10-13 12:17:35 UTC",
+   "source": "ats",
+   "detected_at": "2026-10-13T13:47:50.332508+00:00"
+  },
   {
    "id": "713dcfebee81",
    "company": "Point72",
@@ -365,17 +409,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:42:13.487515+00:00"
-  },
-  {
-   "id": "aa2c4cb320ac",
-   "company": "ING",
-   "title": "Transaction Services Sales (Payments & Cash Management)",
-   "location": "Luxembourg (Siège Lux House)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Luxembourg-Sige-Lux-House/Transaction-Services-Sales--Payments---Cash-Management_REQ-10101544-1",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:42:12.464380+00:00"
   },
   {
    "id": "ededc57ebcfa",
@@ -884,17 +917,6 @@
    "detected_at": "2026-07-07T21:46:49.427269+00:00"
   },
   {
-   "id": "31c50791659d",
-   "company": "Eight Advisory",
-   "title": "Strategic Valuation & Modeling - Senior Analysts - Manager",
-   "location": "Frankfurt am Main, Hesse, Allemagne",
-   "url": "https://8advisory.recruitee.com/o/strategic-valuation-modeling-senior-manager-2-3",
-   "contract": "Autre",
-   "posted_at": "2024-06-07 15:02:28 UTC",
-   "source": "ats",
-   "detected_at": "2026-07-07T21:46:49.427104+00:00"
-  },
-  {
    "id": "dbe41d1c2c73",
    "company": "Eight Advisory",
    "title": "Senior Associate - Transaction Services",
@@ -917,17 +939,6 @@
    "detected_at": "2026-07-07T21:46:49.426888+00:00"
   },
   {
-   "id": "a384c8e56fa6",
-   "company": "Eight Advisory",
-   "title": "Strategic Valuation & Modeling - Intern 2027",
-   "location": "Frankfurt am Main, Hesse, Allemagne",
-   "url": "https://8advisory.recruitee.com/o/strategic-valuation-modeling-intern-2027",
-   "contract": "Stage",
-   "posted_at": "2026-04-29 13:04:55 UTC",
-   "source": "ats",
-   "detected_at": "2026-07-07T21:46:49.426823+00:00"
-  },
-  {
    "id": "7470229ad72b",
    "company": "Eight Advisory",
    "title": "Transaction Services - Senior",
@@ -937,17 +948,6 @@
    "posted_at": "2025-07-28 15:14:31 UTC",
    "source": "ats",
    "detected_at": "2026-07-07T21:46:49.426788+00:00"
-  },
-  {
-   "id": "b75df40ce19b",
-   "company": "Eight Advisory",
-   "title": "Strategic Valuation & Modeling - Analyst",
-   "location": "Frankfurt am Main, Hesse, Allemagne",
-   "url": "https://8advisory.recruitee.com/o/strategic-valuation-modeling-analyst-3",
-   "contract": "CDI",
-   "posted_at": "2025-08-01 13:06:09 UTC",
-   "source": "ats",
-   "detected_at": "2026-07-07T21:46:49.426768+00:00"
   },
   {
    "id": "6e3c8d877c24",
