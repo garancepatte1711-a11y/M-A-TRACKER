@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T13:49:03.665183+00:00",
+ "generated_at": "2026-10-13T22:25:33.289915+00:00",
  "count": 87,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -274,7 +274,7 @@
    "location": "Hong Kong, Hong Kong; Sydney,  Australia",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
    "contract": "Autre",
-   "posted_at": "2026-10-07T03:48:27-04:00",
+   "posted_at": "2026-10-13T11:40:55-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378863+00:00"
   },
@@ -285,7 +285,7 @@
    "location": "Mumbai, India",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
    "contract": "Autre",
-   "posted_at": "2026-10-07T03:48:27-04:00",
+   "posted_at": "2026-10-13T11:40:55-04:00",
    "source": "ats",
    "detected_at": "2026-09-10T20:32:54.378818+00:00"
   },
