@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T11:26:07.834202+00:00",
- "count": 88,
+ "generated_at": "2026-10-14T16:47:35.865212+00:00",
+ "count": 90,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,39 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "1f5fb3a401e5",
+   "company": "Eight Advisory",
+   "title": "Transaction Services & Restructuring - Analyst",
+   "location": "Bruxelles, Brussels, Belgique",
+   "url": "https://8advisory.recruitee.com/o/transaction-services-restructuring-analyst-2-3",
+   "contract": "CDI",
+   "posted_at": "2026-10-14 12:34:38 UTC",
+   "source": "ats",
+   "detected_at": "2026-10-14T16:46:20.976426+00:00"
+  },
+  {
+   "id": "f4169e4a704c",
+   "company": "ING",
+   "title": "Intern M&A-2",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Intern-M-A-2_REQ-10123005",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-14T16:45:28.533353+00:00"
+  },
+  {
+   "id": "9a99b8040232",
+   "company": "ING",
+   "title": "Intern M&A-3",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Intern-M-A-3_REQ-10123006",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-14T16:45:28.533328+00:00"
+  },
   {
    "id": "a81ac6810ceb",
    "company": "ING",
@@ -497,17 +530,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:41:41.994560+00:00"
-  },
-  {
-   "id": "a357c240367c",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:41:41.994508+00:00"
   },
   {
    "id": "dec81db5ce46",
