@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T22:25:33.289915+00:00",
- "count": 87,
+ "generated_at": "2026-10-14T11:26:07.834202+00:00",
+ "count": 88,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "a81ac6810ceb",
+   "company": "ING",
+   "title": "Intern, Corporate Finance Hong Kong",
+   "location": "Hong Kong",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Hong-Kong/Intern--Corporate-Finance-Hong-Kong_REQ-10123140",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-14T11:24:19.571863+00:00"
+  },
   {
    "id": "156dae32e225",
    "company": "Eight Advisory",
