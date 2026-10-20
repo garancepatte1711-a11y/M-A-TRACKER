@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T11:07:28.706180+00:00",
+ "generated_at": "2026-10-20T16:32:58.420887+00:00",
  "count": 84,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -15,15 +15,26 @@
  ],
  "jobs": [
   {
-   "id": "1f5fb3a401e5",
-   "company": "Eight Advisory",
-   "title": "Transaction Services & Restructuring - Analyst",
-   "location": "Bruxelles, Brussels, Belgique",
-   "url": "https://8advisory.recruitee.com/o/transaction-services-restructuring-analyst-2-3",
-   "contract": "CDI",
-   "posted_at": "2026-10-14 12:34:38 UTC",
+   "id": "464641896d56",
+   "company": "ING",
+   "title": "Internship Transaction Services/Trade Finance Services",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Transaction-Services-Trade-Finance-Services_REQ-10122340",
+   "contract": "Stage",
+   "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-10-14T16:46:20.976426+00:00"
+   "detected_at": "2026-10-20T16:30:59.408678+00:00"
+  },
+  {
+   "id": "d8ac56a24974",
+   "company": "ING",
+   "title": "Internships Equity Capital Markets",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internships-Equity-Capital-Markets_REQ-10123530",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-20T16:30:59.408617+00:00"
   },
   {
    "id": "a81ac6810ceb",
@@ -365,17 +376,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:42:22.839405+00:00"
-  },
-  {
-   "id": "df13d6008955",
-   "company": "ING",
-   "title": "Associate, Portfolio Management - Corporate Finance",
-   "location": "New York",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/New-York/Associate--Portfolio-Management---Corporate-Finance_REQ-10106117",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:42:21.769402+00:00"
   },
   {
    "id": "235f3b35cb90",
