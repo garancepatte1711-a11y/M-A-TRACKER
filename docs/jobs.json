@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T21:25:06.167907+00:00",
+ "generated_at": "2026-10-22T11:23:12.602317+00:00",
  "count": 84,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,28 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "a39b82ed354f",
+   "company": "ING",
+   "title": "Area Lead Customer Acquisition",
+   "location": "Bruxelles Avenue Marnix (ING)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/Area-Lead-Customer-Acquisition_REQ-10123438-1",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-22T11:21:17.659870+00:00"
+  },
+  {
+   "id": "4c8423541a96",
+   "company": "ING",
+   "title": "Praktikant Global Capital Markets (w/m/d)",
+   "location": "Frankfurt",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Frankfurt/Praktikant-Global-Capital-Markets--w-m-d-_REQ-10088079",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-10-22T11:21:17.659816+00:00"
+  },
   {
    "id": "464641896d56",
    "company": "ING",
@@ -277,28 +299,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-09-22T11:09:21.784052+00:00"
-  },
-  {
-   "id": "0f494328cfee",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Real Estate Acquisitions Analyst (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst--London-_44602",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-16T16:22:09.644045+00:00"
-  },
-  {
-   "id": "8ef5298d4664",
-   "company": "IMC Trading",
-   "title": "Corporate Development Manager, China",
-   "location": "Hong Kong, Hong Kong; Sydney,  Australia",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4924313101",
-   "contract": "Autre",
-   "posted_at": "2026-10-13T11:40:55-04:00",
-   "source": "ats",
-   "detected_at": "2026-09-10T20:32:54.378863+00:00"
   },
   {
    "id": "d9499506765d",
