@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T20:33:42.826699+00:00",
- "count": 82,
+ "generated_at": "2026-10-26T12:29:19.447018+00:00",
+ "count": 81,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,17 +14,6 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
-  {
-   "id": "af2fd4733156",
-   "company": "ING",
-   "title": "Internship Structured Acquisition Finance Mid-Corporates",
-   "location": "ACT (Amsterdam - Acanthus)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/WO-Meewerkstage-Structured-Acquisition-Finance-Mid-Corporates_REQ-10122386",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-10-23T11:11:43.542497+00:00"
-  },
   {
    "id": "a39b82ed354f",
    "company": "ING",
