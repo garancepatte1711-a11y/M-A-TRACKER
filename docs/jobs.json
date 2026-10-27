@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T11:47:58.020731+00:00",
- "count": 82,
+ "generated_at": "2026-10-27T17:41:48.674413+00:00",
+ "count": 81,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -15,15 +15,15 @@
  ],
  "jobs": [
   {
-   "id": "763192a80893",
-   "company": "Santander",
-   "title": "M&A ANALYST - SCIB",
-   "location": "CDMX",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/CDMX/M-A-ANALYST---SCIB_Req1628438",
-   "contract": "CDI",
-   "posted_at": null,
+   "id": "98f4b9adaa1f",
+   "company": "Eight Advisory",
+   "title": "Transaction Services FIG - Analyste",
+   "location": "Paris, Île-de-France, France",
+   "url": "https://8advisory.recruitee.com/o/transaction-services-fig-analyste",
+   "contract": "Autre",
+   "posted_at": "2026-10-27 13:59:54 UTC",
    "source": "ats",
-   "detected_at": "2026-10-27T11:46:43.738158+00:00"
+   "detected_at": "2026-10-27T17:40:26.272497+00:00"
   },
   {
    "id": "a39b82ed354f",
@@ -255,17 +255,6 @@
    "posted_at": "2026-10-22T12:15:32-04:00",
    "source": "ats",
    "detected_at": "2026-09-29T21:59:41.115327+00:00"
-  },
-  {
-   "id": "0539d49218aa",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Real Estate Acquisitions Analyst",
-   "location": "New York",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-23T16:20:34.376564+00:00"
   },
   {
    "id": "1c945808c18a",
