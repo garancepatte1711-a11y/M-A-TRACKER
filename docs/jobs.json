@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T00:43:37.249034+00:00",
- "count": 77,
+ "generated_at": "2026-11-03T13:49:59.846404+00:00",
+ "count": 74,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "1ee0ba7a737e",
+   "company": "ING",
+   "title": "Wholesale Banking COO Transaction Services",
+   "location": "CDR (Amsterdam - Cedar)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Wholesale-Banking-COO-Transaction-Services_REQ-10123559-2",
+   "contract": "Autre",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-11-03T13:48:01.701056+00:00"
+  },
   {
    "id": "e36b4a89be86",
    "company": "ING",
@@ -81,17 +92,6 @@
    "detected_at": "2026-10-27T21:57:42.874148+00:00"
   },
   {
-   "id": "171bdc446947",
-   "company": "ING",
-   "title": "Intern, Asset Securitisation (Global Capital Markets)",
-   "location": "Singapore",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Asset-Securitisation--Global-Capital-Markets-_REQ-10120203-1",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-10-27T21:57:39.624504+00:00"
-  },
-  {
    "id": "9889980e5192",
    "company": "ING",
    "title": "Private Banker - Acquisition (Oost- of West-Vlaanderen)",
@@ -101,28 +101,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-10-27T21:57:35.660652+00:00"
-  },
-  {
-   "id": "d76959ef35ee",
-   "company": "ING",
-   "title": "Intern, Acquisition Finance",
-   "location": "Singapore",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Acquisition-Finance_REQ-10120673-2",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-10-27T21:57:34.347437+00:00"
-  },
-  {
-   "id": "363d5a7a06a3",
-   "company": "ING",
-   "title": "Intern, Debt Capital Markets APAC",
-   "location": "Singapore",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Debt-Capital-Markets-APAC_REQ-10120855-1",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-10-27T21:57:32.849698+00:00"
   },
   {
    "id": "758d77a31c15",
@@ -332,17 +310,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-09-22T11:09:21.784052+00:00"
-  },
-  {
-   "id": "d9499506765d",
-   "company": "IMC Trading",
-   "title": "Corporate Development Manager",
-   "location": "Mumbai, India",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4805270101",
-   "contract": "Autre",
-   "posted_at": "2026-10-30T12:26:10-04:00",
-   "source": "ats",
-   "detected_at": "2026-09-10T20:32:54.378818+00:00"
   },
   {
    "id": "3216d1cbc5e3",
