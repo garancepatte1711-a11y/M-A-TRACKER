@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T14:15:11.431307+00:00",
- "count": 74,
+ "generated_at": "2026-11-05T23:26:04.615995+00:00",
+ "count": 72,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,28 +14,6 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
-  {
-   "id": "6f94f59a8c4b",
-   "company": "Santander",
-   "title": "Investment Banking Associate, Industrials",
-   "location": "Madison Ave Corp",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Associate--Industrials_Req1632502",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-05T14:13:50.506273+00:00"
-  },
-  {
-   "id": "1d8214dfbb2e",
-   "company": "Santander",
-   "title": "CIB DCM Sr Expert",
-   "location": "SAO PAULO",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/SAO-PAULO/CIB-DCM-Sr-Expert_Req1632449",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-05T14:13:48.543888+00:00"
-  },
   {
    "id": "cd15e73b4c51",
    "company": "Santander",
@@ -274,7 +252,7 @@
    "location": "Bengaluru, India",
    "url": "https://boards.greenhouse.io/point72/jobs/8720568002?gh_jid=8720568002",
    "contract": "CDI",
-   "posted_at": "2026-10-30T17:12:32-04:00",
+   "posted_at": "2026-11-05T14:17:39-05:00",
    "source": "ats",
    "detected_at": "2026-10-12T14:43:51.770532+00:00"
   },
@@ -296,7 +274,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/8468870002?gh_jid=8468870002",
    "contract": "Autre",
-   "posted_at": "2026-10-30T17:12:32-04:00",
+   "posted_at": "2026-11-05T14:17:39-05:00",
    "source": "ats",
    "detected_at": "2026-09-29T21:59:41.115327+00:00"
   },
