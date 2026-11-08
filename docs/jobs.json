@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-08T12:56:59.682412+00:00",
- "count": 72,
+ "generated_at": "2026-11-08T21:50:51.026711+00:00",
+ "count": 64,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
   "Evercore Campus (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/evercore/jobs",
   "Sia Partners (lever): 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/sia-partners?mode=json",
+  "Blackstone (workday): 401 Client Error: Unauthorized for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs",
   "Rothschild & Co (workday): 404 Client Error: Not Found for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Careers/jobs",
   "Moelis & Company (workday): 404 Client Error: Not Found for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
   "Schroders (workday): 422 Client Error: Unprocessable Entity for url: https://schroders.wd3.myworkdayjobs.com/wday/cxs/schroders/schroderscareers/jobs",
@@ -14,28 +15,6 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
-  {
-   "id": "7101f8f88626",
-   "company": "Santander",
-   "title": "Associate/Analyst, M&A - Infrastructure & Industrials | SCIB",
-   "location": "London",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/London/Analyst--M-A---Infrastructure---Industrials---SCIB_Req1575680-1",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-08T12:56:02.546103+00:00"
-  },
-  {
-   "id": "4489355eb8f7",
-   "company": "Santander",
-   "title": "Estágio | Talent Acquisition",
-   "location": "—",
-   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Estgio---Talent-Acquisition_Req1632812",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-07T12:38:49.935986+00:00"
-  },
   {
    "id": "cd15e73b4c51",
    "company": "Santander",
@@ -279,17 +258,6 @@
    "detected_at": "2026-09-29T21:59:41.115327+00:00"
   },
   {
-   "id": "1c945808c18a",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Private Equity Summer Associate / Senior Associate, Tokyo",
-   "location": "Tokyo",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Tokyo/XMLNAME-2027-Blackstone-Private-Equity-Summer-Associate---Senior-Associate--Tokyo_45596",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-09-22T11:09:21.784052+00:00"
-  },
-  {
    "id": "3216d1cbc5e3",
    "company": "Eight Advisory",
    "title": "Avocat(e) collaborateur(trice) expérimenté(e) Corporate M&A",
@@ -301,17 +269,6 @@
    "detected_at": "2026-09-09T10:56:31.768683+00:00"
   },
   {
-   "id": "1a3d8075b766",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Private Equity Off Cycle Internship",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Private-Equity-Off-Cycle-Internship_45106",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-26T12:55:05.582185+00:00"
-  },
-  {
    "id": "adb2cd3d18b8",
    "company": "ING",
    "title": "Director Transaction Services Sales – Card Sales (w/m/d)",
@@ -321,50 +278,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-08-22T12:41:45.043501+00:00"
-  },
-  {
-   "id": "534cf9ee4389",
-   "company": "Blackstone",
-   "title": "2026 Blackstone Private Equity H2 Off Cycle Internship Frankfurt",
-   "location": "Frankfurt Omniturm",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Frankfurt-Omniturm/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship-Frankfurt_41376-1",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:41:41.994560+00:00"
-  },
-  {
-   "id": "dec81db5ce46",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:41:41.994479+00:00"
-  },
-  {
-   "id": "c7a6421b7bca",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:41:41.994423+00:00"
-  },
-  {
-   "id": "8518f958d43a",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Strategic Partners Private Equity Secondaries Summer Analyst (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Private-Equity-Secondaries-Summer-Analyst--London-_43192",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-08-22T12:41:41.086195+00:00"
   },
   {
    "id": "9e68f510ff1d",
