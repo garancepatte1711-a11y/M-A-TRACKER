@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T21:36:15.862222+00:00",
- "count": 71,
+ "generated_at": "2026-11-08T12:56:59.682412+00:00",
+ "count": 72,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "7101f8f88626",
+   "company": "Santander",
+   "title": "Associate/Analyst, M&A - Infrastructure & Industrials | SCIB",
+   "location": "London",
+   "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/London/Analyst--M-A---Infrastructure---Industrials---SCIB_Req1575680-1",
+   "contract": "CDI",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-11-08T12:56:02.546103+00:00"
+  },
   {
    "id": "4489355eb8f7",
    "company": "Santander",
