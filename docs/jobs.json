@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T21:50:51.026711+00:00",
+ "generated_at": "2026-11-09T15:32:17.559542+00:00",
  "count": 64,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -15,6 +15,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "c5b8ffe535ee",
+   "company": "ING",
+   "title": "Internship Corporate Finance - FIG M&A (FI Advisory)",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Financial-Institutions-Advisory-Team_REQ-10124291",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-11-09T15:30:38.865308+00:00"
+  },
   {
    "id": "cd15e73b4c51",
    "company": "Santander",
@@ -36,17 +47,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-11-03T13:48:01.701056+00:00"
-  },
-  {
-   "id": "e36b4a89be86",
-   "company": "ING",
-   "title": "Internship - Corporate Finance Mid-Market",
-   "location": "ACT (Amsterdam - Acanthus)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship---Corporate-Finance-Mid-Market_REQ-10123889",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-10-30T22:01:08.471233+00:00"
   },
   {
    "id": "ec31244ab6d8",
