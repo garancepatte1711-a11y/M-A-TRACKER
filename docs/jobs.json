@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:18:49.504190+00:00",
+ "generated_at": "2026-11-10T14:31:55.349580+00:00",
  "count": 70,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
@@ -14,6 +14,17 @@
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "7d10a45ad811",
+   "company": "ING",
+   "title": "CMA ECG Intern M&A",
+   "location": "Bruxelles Avenue Marnix (ING)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bruxelles-Avenue-Marnix-ING/CMA-ECG-Intern-M-A_REQ-10124227",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-11-10T14:30:15.563722+00:00"
+  },
   {
    "id": "534cf9ee4389",
    "company": "Blackstone",
@@ -101,17 +112,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-11-03T22:59:54.455169+00:00"
-  },
-  {
-   "id": "1ee0ba7a737e",
-   "company": "ING",
-   "title": "Wholesale Banking COO Transaction Services",
-   "location": "CDR (Amsterdam - Cedar)",
-   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Wholesale-Banking-COO-Transaction-Services_REQ-10123559-2",
-   "contract": "Autre",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-03T13:48:01.701056+00:00"
   },
   {
    "id": "ec31244ab6d8",
@@ -296,7 +296,7 @@
    "location": "Bengaluru, India",
    "url": "https://boards.greenhouse.io/point72/jobs/8720568002?gh_jid=8720568002",
    "contract": "CDI",
-   "posted_at": "2026-11-05T14:17:39-05:00",
+   "posted_at": "2026-11-09T22:51:55-05:00",
    "source": "ats",
    "detected_at": "2026-10-12T14:43:51.770532+00:00"
   },
@@ -318,7 +318,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/8468870002?gh_jid=8468870002",
    "contract": "Autre",
-   "posted_at": "2026-11-05T14:17:39-05:00",
+   "posted_at": "2026-11-09T22:51:55-05:00",
    "source": "ats",
    "detected_at": "2026-09-29T21:59:41.115327+00:00"
   },
