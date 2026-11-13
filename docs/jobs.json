@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T14:09:36.075507+00:00",
- "count": 66,
+ "generated_at": "2026-11-13T23:22:35.952450+00:00",
+ "count": 67,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
@@ -10,10 +10,21 @@
   "Moelis & Company (workday): 404 Client Error: Not Found for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
   "Schroders (workday): 422 Client Error: Unprocessable Entity for url: https://schroders.wd3.myworkdayjobs.com/wday/cxs/schroders/schroderscareers/jobs",
   "PIMCO (workday): 404 Client Error: Not Found for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/PIMCO/jobs",
-  "Jefferies (workday): 422 Client Error: Unprocessable Entity for url: https://jefferies.wd5.myworkdayjobs.com/wday/cxs/jefferies/jefferiescareers/jobs",
+  "Jefferies (workday): 521 Server Error: <none> for url: https://jefferies.wd5.myworkdayjobs.com/wday/cxs/jefferies/jefferiescareers/jobs",
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "c5b8ffe535ee",
+   "company": "ING",
+   "title": "Internship Corporate Finance - FIG M&A (FI Advisory)",
+   "location": "AME (Amsterdam - Maple)",
+   "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/AME-Amsterdam---Maple/Internship-Financial-Institutions-Advisory-Team_REQ-10124291",
+   "contract": "Stage",
+   "posted_at": null,
+   "source": "ats",
+   "detected_at": "2026-11-13T23:20:57.700996+00:00"
+  },
   {
    "id": "7d10a45ad811",
    "company": "ING",
