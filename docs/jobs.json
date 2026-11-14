@@ -1,16 +1,17 @@
 {
- "generated_at": "2026-11-13T23:22:35.952450+00:00",
- "count": 67,
+ "generated_at": "2026-11-14T13:10:27.759186+00:00",
+ "count": 61,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
   "Evercore Campus (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/evercore/jobs",
   "Sia Partners (lever): 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/sia-partners?mode=json",
+  "Blackstone (workday): Expecting value: line 1 column 1 (char 0)",
   "Rothschild & Co (workday): 404 Client Error: Not Found for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Careers/jobs",
-  "Moelis & Company (workday): 404 Client Error: Not Found for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
+  "Moelis & Company (workday): Expecting value: line 1 column 1 (char 0)",
   "Schroders (workday): 422 Client Error: Unprocessable Entity for url: https://schroders.wd3.myworkdayjobs.com/wday/cxs/schroders/schroderscareers/jobs",
-  "PIMCO (workday): 404 Client Error: Not Found for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/PIMCO/jobs",
-  "Jefferies (workday): 521 Server Error: <none> for url: https://jefferies.wd5.myworkdayjobs.com/wday/cxs/jefferies/jefferiescareers/jobs",
+  "PIMCO (workday): Expecting value: line 1 column 1 (char 0)",
+  "Jefferies (workday): 422 Client Error: Unprocessable Entity for url: https://jefferies.wd5.myworkdayjobs.com/wday/cxs/jefferies/jefferiescareers/jobs",
   "Fidelity Intl (workday): 404 Client Error: Not Found for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
@@ -35,72 +36,6 @@
    "posted_at": null,
    "source": "ats",
    "detected_at": "2026-11-10T14:30:15.563722+00:00"
-  },
-  {
-   "id": "534cf9ee4389",
-   "company": "Blackstone",
-   "title": "2026 Blackstone Private Equity H2 Off Cycle Internship Frankfurt",
-   "location": "Frankfurt Omniturm",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Frankfurt-Omniturm/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship-Frankfurt_41376-1",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-10T01:17:02.029377+00:00"
-  },
-  {
-   "id": "dec81db5ce46",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-10T01:17:02.029356+00:00"
-  },
-  {
-   "id": "c7a6421b7bca",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-10T01:17:02.029318+00:00"
-  },
-  {
-   "id": "8518f958d43a",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Strategic Partners Private Equity Secondaries Summer Analyst (London)",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Private-Equity-Secondaries-Summer-Analyst--London-_43192",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-10T01:17:02.029283+00:00"
-  },
-  {
-   "id": "1a3d8075b766",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Private Equity Off Cycle Internship",
-   "location": "London",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Private-Equity-Off-Cycle-Internship_45106",
-   "contract": "Stage",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-10T01:17:02.029203+00:00"
-  },
-  {
-   "id": "1c945808c18a",
-   "company": "Blackstone",
-   "title": "2027 Blackstone Private Equity Summer Associate / Senior Associate, Tokyo",
-   "location": "Tokyo",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Tokyo/XMLNAME-2027-Blackstone-Private-Equity-Summer-Associate---Senior-Associate--Tokyo_45596",
-   "contract": "CDI",
-   "posted_at": null,
-   "source": "ats",
-   "detected_at": "2026-11-10T01:17:02.029161+00:00"
   },
   {
    "id": "cd15e73b4c51",
