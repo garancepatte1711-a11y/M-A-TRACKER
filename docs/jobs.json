@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T01:59:28.060881+00:00",
- "count": 53,
+ "generated_at": "2026-11-25T16:56:10.780477+00:00",
+ "count": 51,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
   "Evercore Campus (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/evercore/jobs",
   "Sia Partners (lever): 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/sia-partners?mode=json",
   "Rothschild & Co (workday): 429 Client Error: Too Many Requests for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Careers/jobs",
-  "Moelis & Company (workday): 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
+  "Moelis & Company (workday): 404 Client Error: Not Found for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
   "ING (workday): 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs",
   "Santander (workday): 429 Client Error: Too Many Requests for url: https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs",
   "Schroders (workday): 429 Client Error: Too Many Requests for url: https://schroders.wd3.myworkdayjobs.com/wday/cxs/schroders/schroderscareers/jobs",
@@ -25,7 +25,7 @@
    "contract": "Stage",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-11-25T01:59:21.143406+00:00"
+   "detected_at": "2026-11-25T16:56:02.086034+00:00"
   },
   {
    "id": "8518f958d43a",
@@ -36,7 +36,7 @@
    "contract": "Stage",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-11-25T01:59:21.143373+00:00"
+   "detected_at": "2026-11-25T16:56:02.086001+00:00"
   },
   {
    "id": "1c945808c18a",
@@ -47,7 +47,7 @@
    "contract": "CDI",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-11-25T01:59:21.143298+00:00"
+   "detected_at": "2026-11-25T16:56:02.085925+00:00"
   },
   {
    "id": "c7a6421b7bca",
@@ -58,7 +58,18 @@
    "contract": "Stage",
    "posted_at": null,
    "source": "ats",
-   "detected_at": "2026-11-25T01:59:21.143231+00:00"
+   "detected_at": "2026-11-25T16:56:02.085867+00:00"
+  },
+  {
+   "id": "425829364226",
+   "company": "Eight Advisory",
+   "title": "Transaction Services - Intern (from April 2027)",
+   "location": "Munich, Bavière, Allemagne",
+   "url": "https://8advisory.recruitee.com/o/transaction-services-intern-from-april-2027",
+   "contract": "Stage",
+   "posted_at": "2024-04-18 16:10:21 UTC",
+   "source": "ats",
+   "detected_at": "2026-11-25T16:55:50.189963+00:00"
   },
   {
    "id": "80455358b228",
@@ -70,17 +81,6 @@
    "posted_at": "2026-11-23 09:38:19 UTC",
    "source": "ats",
    "detected_at": "2026-11-23T17:37:30.279616+00:00"
-  },
-  {
-   "id": "98f4b9adaa1f",
-   "company": "Eight Advisory",
-   "title": "Transaction Services FIG - Analyste",
-   "location": "Paris, Île-de-France, France",
-   "url": "https://8advisory.recruitee.com/o/transaction-services-fig-analyste",
-   "contract": "Autre",
-   "posted_at": "2026-10-27 13:59:54 UTC",
-   "source": "ats",
-   "detected_at": "2026-10-27T17:40:26.272497+00:00"
   },
   {
    "id": "156dae32e225",
@@ -202,17 +202,6 @@
    "posted_at": "2026-07-24 09:09:05 UTC",
    "source": "ats",
    "detected_at": "2026-07-24T11:59:10.906332+00:00"
-  },
-  {
-   "id": "0775c2ebf77f",
-   "company": "Eight Advisory",
-   "title": "Transaction Services & Restructuring - Analyst",
-   "location": "Amsterdam, Hollande septentrionale, Pays-Bas",
-   "url": "https://8advisory.recruitee.com/o/transaction-services-and-restructuring-analyst-nl",
-   "contract": "CDI",
-   "posted_at": "2026-02-09 15:46:26 UTC",
-   "source": "ats",
-   "detected_at": "2026-07-07T21:46:49.428004+00:00"
   },
   {
    "id": "41f7d60cc5ac",
@@ -367,17 +356,6 @@
    "posted_at": "2024-04-18 09:58:37 UTC",
    "source": "ats",
    "detected_at": "2026-07-07T21:46:49.427642+00:00"
-  },
-  {
-   "id": "ff54cf755c15",
-   "company": "Eight Advisory",
-   "title": "Transaction Services - Intern (from January 2027)",
-   "location": "Munich, Bavière, Allemagne",
-   "url": "https://8advisory.recruitee.com/o/transaction-services-intern-from-january-2027",
-   "contract": "Stage",
-   "posted_at": "2024-04-18 16:10:21 UTC",
-   "source": "ats",
-   "detected_at": "2026-07-07T21:46:49.427594+00:00"
   },
   {
    "id": "bca94b27c562",
