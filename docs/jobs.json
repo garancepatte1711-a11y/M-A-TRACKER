@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-27T01:33:53.825130+00:00",
- "count": 51,
+ "generated_at": "2026-11-27T16:19:36.295788+00:00",
+ "count": 52,
  "errors": [
   "PJT Partners (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pjtpartnerscampus/jobs",
   "DRW (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/drw/jobs",
   "Evercore Campus (greenhouse): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/evercore/jobs",
   "Sia Partners (lever): 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/sia-partners?mode=json",
-  "Rothschild & Co (workday): 404 Client Error: Not Found for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Careers/jobs",
-  "Moelis & Company (workday): 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
+  "Rothschild & Co (workday): 429 Client Error: Too Many Requests for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Careers/jobs",
+  "Moelis & Company (workday): 404 Client Error: Not Found for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Moelis/jobs",
   "ING (workday): 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs",
   "Santander (workday): 429 Client Error: Too Many Requests for url: https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs",
   "Schroders (workday): 429 Client Error: Too Many Requests for url: https://schroders.wd3.myworkdayjobs.com/wday/cxs/schroders/schroderscareers/jobs",
@@ -16,6 +16,17 @@
   "Fidelity Intl (workday): 429 Client Error: Too Many Requests for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/FILCareers/jobs"
  ],
  "jobs": [
+  {
+   "id": "d6703843ccfb",
+   "company": "IMC Trading",
+   "title": "Corporate Development Manager - Seoul",
+   "location": "Seoul, South Korea",
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/5051843101",
+   "contract": "Autre",
+   "posted_at": "2026-11-27T03:02:03-05:00",
+   "source": "ats",
+   "detected_at": "2026-11-27T16:19:01.420669+00:00"
+  },
   {
    "id": "dec81db5ce46",
    "company": "Blackstone",
